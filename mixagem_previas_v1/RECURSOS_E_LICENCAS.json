@@ -1,0 +1,252 @@
+{
+  "recursos": [
+    {
+      "arquivo": "audio/previews/A_Tempestade_Descoberta_DEMONSTRACAO_GUIA.mp3",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "e39040a9c2d5bbaf339dc35441593f16e4a401f3b39b8e8211529005e1a7b691"
+    },
+    {
+      "arquivo": "audio/previews/C_Conversa_Deus_PRIORITARIA_DEMONSTRACAO_GUIA.mp3",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "f070edf8e495143ba77489da38715527c4d7377f600389d40ed6808319420a5f"
+    },
+    {
+      "arquivo": "audio/previews/B_Incendio_Resgate_DEMONSTRACAO_GUIA.mp3",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "864ff60df71e6e18b577b9feedc55f3114bed57a0802992af1e5bd52d59eedac"
+    },
+    {
+      "arquivo": "audio/premixes/A_Tempestade_Descoberta_MONO_CHECK.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "856186da1d4f32be03caa67765ff40d1b161528d5c903be507685fde8499d6de"
+    },
+    {
+      "arquivo": "audio/premixes/A_Tempestade_Descoberta_DEMONSTRACAO_GUIA.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "314d47a2bf5e94bac02a9bdebed475ebc0138dbf1bfd78a000438a73286e1d54"
+    },
+    {
+      "arquivo": "audio/premixes/B_Incendio_Resgate_DEMONSTRACAO_GUIA.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "a9ebbb105b995a4714e655f82ea9f7cdb310f0c1dd38b321a6d7f752c109c380"
+    },
+    {
+      "arquivo": "audio/premixes/C_Conversa_Deus_PRIORITARIA_DEMONSTRACAO_GUIA.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "cef75958bb6a664d57bde87c25112872dc8561fe60fee103aad2a0818648dc5f"
+    },
+    {
+      "arquivo": "audio/premixes/C_Conversa_Deus_PRIORITARIA_MONO_CHECK.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "c6d51839429e3d4389b7984af4abd3ffbb62f1faf097f54ad721bb38a9eec95a"
+    },
+    {
+      "arquivo": "audio/premixes/B_Incendio_Resgate_MONO_CHECK.wav",
+      "origem": "Demonstração mista: dublagem fornecida + recursos procedurais originais. Música-guia, não trilha final.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "008da2fa0f3857122b0dc69acf09ab130f3b027b99785481875df2ae9452cd5b"
+    },
+    {
+      "arquivo": "audio/ambientes/correnteza_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "9c7f971f6662119691dba63becc8018273808a0be9ac742be2cd0b4fa42964ee"
+    },
+    {
+      "arquivo": "audio/ambientes/fogo_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "f10fabbd360546ce6183180dad97cc21ed38962ef29ddc89eecf530f020cf2cb"
+    },
+    {
+      "arquivo": "audio/ambientes/celestial_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "0bd4e4744e3380dc9d367740b15cbd090d40189d735c8fe50d9ba6b65a7726e2"
+    },
+    {
+      "arquivo": "audio/ambientes/chuva_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "9dbae456b9b3887a645594f645c1566af41ceca50fa6a9f2508936cf0d56f3ba"
+    },
+    {
+      "arquivo": "audio/efeitos/milagre_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "64de7e250d9484c31edf383cf3977027f4e65a2a95be18da68a3fff0e68037e6"
+    },
+    {
+      "arquivo": "audio/efeitos/trovao_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "e7a5accc5721f36643e97c2aaeb8b4c55671e54e0250926b731069e837dcddd3"
+    },
+    {
+      "arquivo": "audio/efeitos/respingo_ORIGINAL_PROCEDURAL.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "39d2e93487f0c3f6e41a754c40186746cc14ed19327ea788b7053fd0f0ce6a1d"
+    },
+    {
+      "arquivo": "audio/musicas/guias/B_Incendio_Resgate_COMPOSICAO_ORIGINAL_GUIA.mid",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b96aa7d7d9f6fb5712c5a034afb5eed28671afd820d50c23e2c9fe0b5ba94e71"
+    },
+    {
+      "arquivo": "audio/musicas/guias/A_Tempestade_Descoberta_COMPOSICAO_ORIGINAL_GUIA.mid",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "cf903aa402ce9bbb224fea00299d002d935f8801ad49dfe67219c20818b003b4"
+    },
+    {
+      "arquivo": "audio/musicas/guias/C_Conversa_Deus_PRIORITARIA_COMPOSICAO_ORIGINAL_GUIA.mid",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "c30250150e7db6df6d73a3f1473215353868f030db67c324f1abae38d8cf5709"
+    },
+    {
+      "arquivo": "audio/stems/A_Tempestade_Descoberta/DX_dialogos.wav",
+      "origem": "Dublagem fornecida pelo projeto, reutilizada sem regeneração; direitos e termos da conta ElevenLabs permanecem aplicáveis.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "00ec8693cdf9548245ae078c98611a4e940ce1f882b5f2ec0474f5ee51a7b623"
+    },
+    {
+      "arquivo": "audio/stems/A_Tempestade_Descoberta/MX_musica_GUIA.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "a41eab7009e0892bb5d55c9863371bd398ff9d7ca3d9836bc4555c6cc7d590c7"
+    },
+    {
+      "arquivo": "audio/stems/A_Tempestade_Descoberta/FX_efeitos.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "bf6c3e96f49d99dbfc3372803e276915178edd898f68efbe5af0be49b33d0663"
+    },
+    {
+      "arquivo": "audio/stems/A_Tempestade_Descoberta/AMB_ambientes.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b5e30757dccd866988667f3f71f4cac04991370c55a341207e77617b0056abf1"
+    },
+    {
+      "arquivo": "audio/stems/C_Conversa_Deus_PRIORITARIA/DX_dialogos.wav",
+      "origem": "Dublagem fornecida pelo projeto, reutilizada sem regeneração; direitos e termos da conta ElevenLabs permanecem aplicáveis.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "7eff48a365a501bd8abe756e7e8eaf453b40a9f4be413febf079caa33a0dded3"
+    },
+    {
+      "arquivo": "audio/stems/C_Conversa_Deus_PRIORITARIA/MX_musica_GUIA.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "0e2ccf3924a57b362d2608b97faead1adc49b81f03c5a63a0a17478bf145844f"
+    },
+    {
+      "arquivo": "audio/stems/C_Conversa_Deus_PRIORITARIA/FX_efeitos.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "bae8819fc4825b747e297d6d6adccefeac14222dbc2876aad5ca111966d87398"
+    },
+    {
+      "arquivo": "audio/stems/C_Conversa_Deus_PRIORITARIA/AMB_ambientes.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "bf27d4ecbe604c8e53b7c31b94355c70ea93b056e626cbe7a9304d40f57b8f9d"
+    },
+    {
+      "arquivo": "audio/stems/B_Incendio_Resgate/DX_dialogos.wav",
+      "origem": "Dublagem fornecida pelo projeto, reutilizada sem regeneração; direitos e termos da conta ElevenLabs permanecem aplicáveis.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "c0d167591b580f5d7a0b6216b3900254ea4e844b7d7065cd3faf035126ed426f"
+    },
+    {
+      "arquivo": "audio/stems/B_Incendio_Resgate/MX_musica_GUIA.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b45d92737ed8ca9ebb2d5225ec3a18921d91f83d6eb7b87cf92e3512ad9ede4d"
+    },
+    {
+      "arquivo": "audio/stems/B_Incendio_Resgate/FX_efeitos.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b701a71807ece00bd8d74cab78b0ebdbf253eebdc5eed3e7c4e1eb5505e2383f"
+    },
+    {
+      "arquivo": "audio/stems/B_Incendio_Resgate/AMB_ambientes.wav",
+      "origem": "Material original procedural/composição-guia criado nesta tarefa; sem gravações ou melodias de terceiros.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "fefc48d211158d016252ffae82271338ba156a540ece4617e80c9d8282d80160"
+    },
+    {
+      "arquivo": "audio/musicas/guias/Tema_Ruptura_ORIGINAL_GUIA.mid",
+      "origem": "Composição-guia original gerada localmente nesta tarefa; sem amostras externas.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b693738789899e6076d38ea9efce58a50429092788835c86e3853827d53f61a0"
+    },
+    {
+      "arquivo": "audio/musicas/guias/Tema_Compaixao_ORIGINAL_GUIA.mid",
+      "origem": "Composição-guia original gerada localmente nesta tarefa; sem amostras externas.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "2496c58347e5d7373629982db2df158d5ce8bbe0cba8d324d3b82a93e1e8919c"
+    },
+    {
+      "arquivo": "audio/musicas/guias/Tema_Sacrificio_ORIGINAL_GUIA.mid",
+      "origem": "Composição-guia original gerada localmente nesta tarefa; sem amostras externas.",
+      "biblioteca_externa": false,
+      "atribuicao_externa_necessaria_por_asset": false,
+      "sha256": "b978a1c4f227fdcb95c4b8c72af26a749a4427cd12ff772861c78d9a4713c0c3"
+    }
+  ],
+  "nenhum_recurso_externo_baixado": true,
+  "nenhuma_compra": true,
+  "creditos_elevenlabs": 0,
+  "software_usado": [
+    "Python",
+    "NumPy (BSD)",
+    "SciPy (BSD)",
+    "FFmpeg/libmp3lame; somente ferramentas locais, sem redistribuição de executáveis"
+  ],
+  "observacao": "Os registros identificam a procedência do material; não alteram os direitos das vozes fornecidas pelo usuário."
+}
