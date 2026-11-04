@@ -1,0 +1,25 @@
+{
+  "status": "PROVISORIO — não é arte ou identidade visual aprovada",
+  "origin": "Criação programática local, sem serviços pagos, sem imagem generativa.",
+  "assets": [
+    {
+      "file": "grain.png",
+      "role": "Grão óptico procedural",
+      "seed": 22026
+    },
+    {
+      "file": "glow.png",
+      "role": "Luz difusa localizada nas mãos"
+    },
+    {
+      "file": "../scene.js",
+      "role": "Malhas do manequim, arquitetura, chuva, partículas e lajes geradas por código"
+    },
+    {
+      "file": "../config.js",
+      "role": "Paleta, enquadramento, duração, semente e tempos de animação"
+    }
+  ],
+  "audio": "Ausente. Nenhum arquivo ElevenLabs encontrado, lido, alterado ou regenerado.",
+  "character": "Manequim sem rosto, cabelo, figurino, identidade ou semelhança pretendida com o protagonista."
+}

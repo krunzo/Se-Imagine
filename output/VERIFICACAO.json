@@ -1,0 +1,17 @@
+{
+  "frame_independent_of_order": true,
+  "frame_270_sha256": "32494f9466c5a9def0c7ffef7f9d5d346a4cc66de7e99f50048d394d6f7d3399",
+  "rain_stops_and_stays_stopped": true,
+  "rain_progressively_slows": true,
+  "articulated_hands_change_pose": true,
+  "breathing_changes_shoulders": true,
+  "interactive_scrubber_works": true,
+  "javascript_errors": [],
+  "media_1920x1080_h264_30fps_450frames_15s": true,
+  "no_audio_stream": true,
+  "full_video_decodes": true,
+  "mp4_sha256": "da14308943cb46cd9541c2946a7a33787fa4fff27913b1a740e746f570881c2c",
+  "mp4_bytes": 8039573,
+  "original_Video1_unchanged": true,
+  "all_passed": true
+}
