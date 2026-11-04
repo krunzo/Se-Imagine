@@ -1,0 +1,142 @@
+{
+  "cena": 8,
+  "titulo": "A cidade em emergência",
+  "status": "complete",
+  "duracao_segundos": 34.17089583333333,
+  "dialogos": [
+    {
+      "id": "cena_08_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Dias depois, outra tempestade deixa bairros inteiros debaixo d'água.",
+      "inicio_segundos": 2.12,
+      "fim_fala_segundos": 6.6246875,
+      "fim_cauda_segundos": 6.6246875,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "A chuva finalmente para.",
+      "inicio_segundos": 6.7846875,
+      "fim_fala_segundos": 8.642291666666667,
+      "fim_cauda_segundos": 8.642291666666667,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "Mas a cidade continua em estado de emergência.",
+      "inicio_segundos": 8.802291666666667,
+      "fim_fala_segundos": 11.820895833333333,
+      "fim_cauda_segundos": 11.820895833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_004",
+      "personagem": "Bombeiro",
+      "texto_exato": "Ainda tem crianças lá dentro!",
+      "inicio_segundos": 14.220895833333334,
+      "fim_fala_segundos": 16.380895833333334,
+      "fim_cauda_segundos": 16.380895833333334,
+      "voice_id": "Wy9tl2Gz4dEyE3udiPju",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_005",
+      "personagem": "Mãe",
+      "texto_exato": "Por favor! Me ajuda!",
+      "inicio_segundos": 16.780895833333332,
+      "fim_fala_segundos": 18.940895833333332,
+      "fim_cauda_segundos": 18.940895833333332,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_006",
+      "personagem": "Mãe",
+      "texto_exato": "Meu filho está preso em casa! A água está subindo! Você precisa salvá-lo!",
+      "inicio_segundos": 19.340895833333335,
+      "fim_fala_segundos": 24.860895833333334,
+      "fim_cauda_segundos": 24.860895833333334,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_007",
+      "personagem": "Protagonista",
+      "texto_exato": "Ainda tem crianças lá dentro! Eu preciso entrar!",
+      "inicio_segundos": 25.260895833333333,
+      "fim_fala_segundos": 28.620895833333332,
+      "fim_cauda_segundos": 28.620895833333332,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_08_fala_008",
+      "personagem": "Mãe",
+      "texto_exato": "Mas o meu filho também é uma criança! Ele está sozinho!",
+      "inicio_segundos": 28.920895833333333,
+      "fim_fala_segundos": 32.92089583333333,
+      "fim_cauda_segundos": 32.92089583333333,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "emergencia",
+      "inicio": 0,
+      "fim": 34.17089583333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "chuva",
+      "inicio": 0.1,
+      "fim": 5.1
+    },
+    {
+      "tipo": "ambiente",
+      "asset": "incendio",
+      "inicio": 12.220895833333334,
+      "fim": 34.17089583333333
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Flood aftermath and a burning childrens shelter, urgent but restrained orchestral pulses, a desperate mother and an impossible moral dilemma, dialogue first.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 7.5
+    },
+    ".mp3": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 7.5
+    }
+  },
+  "ganho_comum_master_db": 10.11,
+  "sha256": {
+    "SeImagine_Cena_08_Final.wav": "8d28a217023833472291d76f2c09e145124a36eaf164b66e6dad9469fe572a59",
+    "SeImagine_Cena_08_Final.mp3": "c7417da783c574c1da76e63e529ed95d7821109aaa87e317b2e4840cd427715c"
+  }
+}

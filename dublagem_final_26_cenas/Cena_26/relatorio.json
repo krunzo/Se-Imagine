@@ -1,0 +1,81 @@
+{
+  "cena": 26,
+  "titulo": "O último olhar",
+  "status": "complete",
+  "duracao_segundos": 23.145479166666668,
+  "dialogos": [
+    {
+      "id": "cena_26_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Ele recebeu poderes capazes de realizar milagres.",
+      "inicio_segundos": 6.12,
+      "fim_fala_segundos": 9.603,
+      "fim_cauda_segundos": 9.603,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_26_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Mas seu maior milagre não nasceu do poder...",
+      "inicio_segundos": 10.963,
+      "fim_fala_segundos": 13.656520833333333,
+      "fim_cauda_segundos": 13.656520833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_26_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "Nasceu de uma escolha.",
+      "inicio_segundos": 15.316520833333334,
+      "fim_fala_segundos": 16.895479166666668,
+      "fim_cauda_segundos": 16.895479166666668,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 23.145479166666668
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos_agua",
+      "inicio": 1,
+      "fim": 4.0
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A compassionate spirit witnesses ordinary people helping others, the quiet piano motif returns with warm restrained strings, sadness resolves toward subtle hope, gentle complete cinematic ending and long soft natural fade, never bombastic.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -19.49,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 17.1
+    },
+    ".mp3": {
+      "integrated_lufs": -19.49,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 17.1
+    }
+  },
+  "ganho_comum_master_db": 11.899999999999999,
+  "sha256": {
+    "SeImagine_Cena_26_Final.wav": "c2239c6c46da13b771c27b07a4eaf5dac1d87df38bb51a11e1223d25624664fa",
+    "SeImagine_Cena_26_Final.mp3": "079aa41ee5450a79ff45be0410467725a6834a8150fda77b4617c8c0a75d9f18"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "cena": 15,
+  "titulo": "O milagre contra ele",
+  "status": "complete",
+  "duracao_segundos": 13.78,
+  "dialogos": [
+    {
+      "id": "cena_15_fala_001",
+      "personagem": "Empresário",
+      "texto_exato": "Viram? Bastaram alguns segundos!",
+      "inicio_segundos": 4.12,
+      "fim_fala_segundos": 6.76,
+      "fim_cauda_segundos": 6.76,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_15_fala_002",
+      "personagem": "Empresário",
+      "texto_exato": "Quantas pessoas poderiam ter sido salvas enquanto ele estava aqui?",
+      "inicio_segundos": 7.69,
+      "fim_fala_segundos": 11.53,
+      "fim_cauda_segundos": 11.53,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "praca",
+      "inicio": 0,
+      "fim": 13.780000000000001
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 0.3,
+      "fim": 4.3
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A quiet healing miracle is used as an accusation, a brief compassionate harmonic opening followed by restrained uneasy strings, no victory theme.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.43,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 12.7
+    },
+    ".mp3": {
+      "integrated_lufs": -18.43,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 12.7
+    }
+  },
+  "ganho_comum_master_db": 10.899999999999999,
+  "sha256": {
+    "SeImagine_Cena_15_Final.wav": "cf45c48f9f18f26bff0e405e2ba3929f6732319b5e44a4d151557f3b7d716a57",
+    "SeImagine_Cena_15_Final.mp3": "5fa76cb2495b861ef3d870437962f529c00cd9a7057a64d860f0f78c1ed5e454"
+  }
+}

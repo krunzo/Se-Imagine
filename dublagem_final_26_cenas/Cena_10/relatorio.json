@@ -1,0 +1,81 @@
+{
+  "cena": 10,
+  "titulo": "A menina",
+  "status": "complete",
+  "duracao_segundos": 22.763833333333334,
+  "dialogos": [
+    {
+      "id": "cena_10_fala_001",
+      "personagem": "Bombeiro",
+      "texto_exato": "Você precisa descansar... Já salvou todas as outras.",
+      "inicio_segundos": 2.12,
+      "fim_fala_segundos": 6.52,
+      "fim_cauda_segundos": 6.52,
+      "voice_id": "Wy9tl2Gz4dEyE3udiPju",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_10_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Pela primeira vez, você conseguiu trazer alguém de volta à vida.",
+      "inicio_segundos": 15.52,
+      "fim_fala_segundos": 19.513833333333334,
+      "fim_cauda_segundos": 19.513833333333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "emergencia",
+      "inicio": 0,
+      "fim": 6.72
+    },
+    {
+      "tipo": "efeito",
+      "asset": "inspiracao",
+      "inicio": 13.82,
+      "fim": 15.32
+    },
+    {
+      "tipo": "efeito",
+      "asset": "impacto",
+      "inicio": 19.913833333333333,
+      "fim": 21.913833333333333
+    }
+  ],
+  "silencios": [
+    [
+      6.869999999999999,
+      13.52
+    ]
+  ],
+  "direcao_musical": "An exhausted rescuer faces a child without signs of life. Very sparse sorrowful strings at first, withdraw completely after the first six seconds. Leave the middle nearly silent for the miracle and the childs first breath. No triumphant swell.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 17.8
+    },
+    ".mp3": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 17.8
+    }
+  },
+  "ganho_comum_master_db": 13.059999999999999,
+  "sha256": {
+    "SeImagine_Cena_10_Final.wav": "fbd823dd166788008b82e4f39afb0ab10112111cc45011be5c1122f78224dd2e",
+    "SeImagine_Cena_10_Final.mp3": "cfdb43c20922c57330bf246f46305667559e56b15527497947cc96bed88ebfc1"
+  }
+}

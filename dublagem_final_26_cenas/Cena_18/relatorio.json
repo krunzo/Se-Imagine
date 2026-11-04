@@ -1,0 +1,76 @@
+{
+  "cena": 18,
+  "titulo": "O colapso",
+  "status": "complete",
+  "duracao_segundos": 18.1995625,
+  "dialogos": [
+    {
+      "id": "cena_18_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Então, de repente, aquilo que parecia impossível começa a acontecer em toda parte.",
+      "inicio_segundos": 3.12,
+      "fim_fala_segundos": 8.135520833333333,
+      "fim_cauda_segundos": 8.135520833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_18_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "O mundo está desmoronando.",
+      "inicio_segundos": 9.295520833333333,
+      "fim_fala_segundos": 11.1995625,
+      "fim_cauda_segundos": 11.1995625,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "colapso",
+      "inicio": 0,
+      "fim": 16.1995625
+    },
+    {
+      "tipo": "efeito",
+      "asset": "impacto",
+      "inicio": 13.9995625,
+      "fim": 15.9995625
+    }
+  ],
+  "silencios": [
+    [
+      16.1995625,
+      18.1995625
+    ]
+  ],
+  "direcao_musical": "The sky fractures and the world collapses, low organic orchestral tension and slow rising strings, no percussion hits, no sound effects, abrupt retreat toward complete silence at the end.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -3.34,
+      "loudness_range_lu": 6.4
+    },
+    ".mp3": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -3.38,
+      "loudness_range_lu": 6.4
+    }
+  },
+  "ganho_comum_master_db": 8.7,
+  "sha256": {
+    "SeImagine_Cena_18_Final.wav": "eb2349dc6fcb5494c9e339e5bde09847898687eff4ff480226442b3d3ce7a340",
+    "SeImagine_Cena_18_Final.mp3": "26212536a71b4c8bd541eba6c52f4395c665d77657c6b6aade0f1e797dd3ad2f"
+  },
+  "silencio_terminal_validado_ate_ultima_amostra": true
+}

@@ -1,0 +1,76 @@
+{
+  "cena": 3,
+  "titulo": "A água e o vinho",
+  "status": "complete",
+  "duracao_segundos": 16.590208333333333,
+  "dialogos": [
+    {
+      "id": "cena_03_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "E as coisas ficam ainda mais estranhas quando um simples copo de água se transforma em vinho.",
+      "inicio_segundos": 2.62,
+      "fim_fala_segundos": 8.4714375,
+      "fim_cauda_segundos": 8.4714375,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_03_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Aos poucos, você começa a desconfiar de algo impossível.",
+      "inicio_segundos": 10.6714375,
+      "fim_fala_segundos": 14.340208333333333,
+      "fim_cauda_segundos": 14.340208333333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "escritorio",
+      "inicio": 0,
+      "fim": 16.590208333333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "copo",
+      "inicio": 0.3,
+      "fim": 4.3
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 4.62,
+      "fim": 8.620000000000001
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Intimate discovery at home, mysterious sparse felt piano and soft luminous strings, water becoming wine, curious delicate warmth.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 15.0
+    },
+    ".mp3": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 15.0
+    }
+  },
+  "ganho_comum_master_db": 10.79,
+  "sha256": {
+    "SeImagine_Cena_03_Final.wav": "97ac82de9e08db0b168311fa3adaae526591d5f57f1a1e4f0a7b21b48693ba19",
+    "SeImagine_Cena_03_Final.mp3": "f51587783f0d97f90e5ac1a8e699b5b52589a2d5a993713c4dce73828a166648"
+  }
+}

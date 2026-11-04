@@ -1,0 +1,6 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_14_fala_001,Narrador,1.12,8.457520833333334,8.457520833333334,"Então o empresário organiza um grande evento, prometendo dar a você a oportunidade de esclarecer as acusações."
+cena_14_fala_002,Narrador,8.617520833333334,9.778520833333333,9.778520833333333,Você aceita.
+cena_14_fala_003,Empresário,11.178520833333334,17.578520833333332,17.578520833333332,Você consegue salvar vidas em segundos. Então por que aquela mãe precisou implorar por ajuda?
+cena_14_fala_004,Protagonista,17.878520833333333,22.43852083333333,22.43852083333333,Havia crianças morrendo naquele abrigo. Eu não podia abandoná-las!
+cena_14_fala_005,Empresário,22.738520833333332,27.698520833333333,27.698520833333333,E quem deu a você o direito de decidir quais vidas mereciam ser salvas?

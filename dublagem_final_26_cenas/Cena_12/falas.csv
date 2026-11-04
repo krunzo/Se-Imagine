@@ -1,0 +1,9 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_12_fala_001,Empresário,1.12,5.52,5.52,Soube do que aconteceu. Talvez eu possa ajudar a encontrar seu filho.
+cena_12_fala_002,Empresário,5.92,8.16,8.16,Você pediu ajuda àquele homem?
+cena_12_fala_003,Mãe,8.46,11.02,11.02,Pedi... Eu implorei.
+cena_12_fala_004,Empresário,11.32,13.24,13.24,E ele foi salvar seu filho?
+cena_12_fala_005,Mãe,13.54,19.86,19.86,"Não... Ele estava salvando aquelas crianças. Fez tudo o que podia, até desmaiou..."
+cena_12_fala_006,Narrador,22.26,24.582,24.582,O empresário publica a entrevista.
+cena_12_fala_007,Narrador,24.742,29.571770833333332,29.571770833333332,Mas elimina justamente a parte que explicava por que você não conseguiu ajudá-la.
+cena_12_fala_008,Narrador,29.971770833333334,34.801541666666665,34.801541666666665,E uma história de coragem começa a ser contada como uma história de abandono.

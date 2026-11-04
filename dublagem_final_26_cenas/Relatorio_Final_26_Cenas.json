@@ -1,0 +1,1877 @@
+{
+  "status": "26_cenas_finalizadas",
+  "total_cenas": 26,
+  "total_falas": 125,
+  "faltantes": [],
+  "duracao_segundos": 757.8813958333333,
+  "cenas": [
+    {
+      "cena": 1,
+      "titulo": "A correnteza",
+      "inicio_segundos": 0,
+      "fim_segundos": 36.95516666666666,
+      "duracao_segundos": 36.95516666666666,
+      "mp3": "Cena_01/SeImagine_Cena_01_Final.mp3",
+      "zip": "SeImagine_Cena_01_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_01_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 2,
+      "titulo": "O impossível",
+      "inicio_segundos": 36.95516666666666,
+      "fim_segundos": 61.45516666666666,
+      "duracao_segundos": 24.5,
+      "mp3": "Cena_02/SeImagine_Cena_02_Final.mp3",
+      "zip": "SeImagine_Cena_02_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_02_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 3,
+      "titulo": "A água e o vinho",
+      "inicio_segundos": 61.45516666666666,
+      "fim_segundos": 78.04537499999999,
+      "duracao_segundos": 16.590208333333333,
+      "mp3": "Cena_03/SeImagine_Cena_03_Final.mp3",
+      "zip": "SeImagine_Cena_03_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_03_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 4,
+      "titulo": "Os primeiros milagres",
+      "inicio_segundos": 78.04537499999999,
+      "fim_segundos": 97.34833333333333,
+      "duracao_segundos": 19.302958333333333,
+      "mp3": "Cena_04/SeImagine_Cena_04_Final.mp3",
+      "zip": "SeImagine_Cena_04_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_04_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 5,
+      "titulo": "O pão que não acaba",
+      "inicio_segundos": 97.34833333333333,
+      "fim_segundos": 114.1345,
+      "duracao_segundos": 16.786166666666666,
+      "mp3": "Cena_05/SeImagine_Cena_05_Final.mp3",
+      "zip": "SeImagine_Cena_05_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_05_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 6,
+      "titulo": "Caminhando sobre as águas",
+      "inicio_segundos": 114.1345,
+      "fim_segundos": 139.43272916666666,
+      "duracao_segundos": 25.298229166666665,
+      "mp3": "Cena_06/SeImagine_Cena_06_Final.mp3",
+      "zip": "SeImagine_Cena_06_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_06_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 7,
+      "titulo": "A proposta",
+      "inicio_segundos": 139.43272916666666,
+      "fim_segundos": 179.8265,
+      "duracao_segundos": 40.393770833333335,
+      "mp3": "Cena_07/SeImagine_Cena_07_Final.mp3",
+      "zip": "SeImagine_Cena_07_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_07_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 8,
+      "titulo": "A cidade em emergência",
+      "inicio_segundos": 179.8265,
+      "fim_segundos": 213.99739583333334,
+      "duracao_segundos": 34.17089583333333,
+      "mp3": "Cena_08/SeImagine_Cena_08_Final.mp3",
+      "zip": "SeImagine_Cena_08_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_08_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 9,
+      "titulo": "O fogo desaparece",
+      "inicio_segundos": 213.99739583333334,
+      "fim_segundos": 240.92591666666667,
+      "duracao_segundos": 26.928520833333334,
+      "mp3": "Cena_09/SeImagine_Cena_09_Final.mp3",
+      "zip": "SeImagine_Cena_09_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_09_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 10,
+      "titulo": "A menina",
+      "inicio_segundos": 240.92591666666667,
+      "fim_segundos": 263.68975,
+      "duracao_segundos": 22.763833333333334,
+      "mp3": "Cena_10/SeImagine_Cena_10_Final.mp3",
+      "zip": "SeImagine_Cena_10_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_10_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 11,
+      "titulo": "Sem poderes",
+      "inicio_segundos": 263.68975,
+      "fim_segundos": 288.35477083333336,
+      "duracao_segundos": 24.665020833333333,
+      "mp3": "Cena_11/SeImagine_Cena_11_Final.mp3",
+      "zip": "SeImagine_Cena_11_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_11_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 12,
+      "titulo": "A entrevista",
+      "inicio_segundos": 288.35477083333336,
+      "fim_segundos": 324.4063125,
+      "duracao_segundos": 36.051541666666665,
+      "mp3": "Cena_12/SeImagine_Cena_12_Final.mp3",
+      "zip": "SeImagine_Cena_12_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_12_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 13,
+      "titulo": "Da admiração à cobrança",
+      "inicio_segundos": 324.4063125,
+      "fim_segundos": 348.06891666666667,
+      "duracao_segundos": 23.662604166666668,
+      "mp3": "Cena_13/SeImagine_Cena_13_Final.mp3",
+      "zip": "SeImagine_Cena_13_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_13_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 14,
+      "titulo": "A armadilha pública",
+      "inicio_segundos": 348.06891666666667,
+      "fim_segundos": 378.0174375,
+      "duracao_segundos": 29.948520833333333,
+      "mp3": "Cena_14/SeImagine_Cena_14_Final.mp3",
+      "zip": "SeImagine_Cena_14_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_14_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 15,
+      "titulo": "O milagre contra ele",
+      "inicio_segundos": 378.0174375,
+      "fim_segundos": 391.7974375,
+      "duracao_segundos": 13.78,
+      "mp3": "Cena_15/SeImagine_Cena_15_Final.mp3",
+      "zip": "SeImagine_Cena_15_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_15_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 16,
+      "titulo": "A verdade chega",
+      "inicio_segundos": 391.7974375,
+      "fim_segundos": 409.8144791666667,
+      "duracao_segundos": 18.017041666666668,
+      "mp3": "Cena_16/SeImagine_Cena_16_Final.mp3",
+      "zip": "SeImagine_Cena_16_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_16_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 17,
+      "titulo": "O preço da bondade",
+      "inicio_segundos": 409.8144791666667,
+      "fim_segundos": 428.39947916666665,
+      "duracao_segundos": 18.585,
+      "mp3": "Cena_17/SeImagine_Cena_17_Final.mp3",
+      "zip": "SeImagine_Cena_17_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_17_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 18,
+      "titulo": "O colapso",
+      "inicio_segundos": 428.39947916666665,
+      "fim_segundos": 446.59904166666666,
+      "duracao_segundos": 18.1995625,
+      "mp3": "Cena_18/SeImagine_Cena_18_Final.mp3",
+      "zip": "SeImagine_Cena_18_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_18_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 19,
+      "titulo": "Entre dois mundos",
+      "inicio_segundos": 446.59904166666666,
+      "fim_segundos": 474.4490416666667,
+      "duracao_segundos": 27.85,
+      "mp3": "Cena_19/SeImagine_Cena_19_Final.mp3",
+      "zip": "SeImagine_Cena_19_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_19_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 20,
+      "titulo": "As leis da existência",
+      "inicio_segundos": 474.4490416666667,
+      "fim_segundos": 537.2490208333334,
+      "duracao_segundos": 62.79997916666667,
+      "mp3": "Cena_20/SeImagine_Cena_20_Final.mp3",
+      "zip": "SeImagine_Cena_20_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_20_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 21,
+      "titulo": "A origem dos poderes",
+      "inicio_segundos": 537.2490208333334,
+      "fim_segundos": 564.8692708333333,
+      "duracao_segundos": 27.62025,
+      "mp3": "Cena_21/SeImagine_Cena_21_Final.mp3",
+      "zip": "SeImagine_Cena_21_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_21_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 22,
+      "titulo": "A humanidade",
+      "inicio_segundos": 564.8692708333333,
+      "fim_segundos": 616.2192708333333,
+      "duracao_segundos": 51.35,
+      "mp3": "Cena_22/SeImagine_Cena_22_Final.mp3",
+      "zip": "SeImagine_Cena_22_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_22_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 23,
+      "titulo": "A escolha",
+      "inicio_segundos": 616.2192708333333,
+      "fim_segundos": 693.1692708333334,
+      "duracao_segundos": 76.95,
+      "mp3": "Cena_23/SeImagine_Cena_23_Final.mp3",
+      "zip": "SeImagine_Cena_23_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_23_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 24,
+      "titulo": "O último milagre",
+      "inicio_segundos": 693.1692708333334,
+      "fim_segundos": 711.5400833333333,
+      "duracao_segundos": 18.3708125,
+      "mp3": "Cena_24/SeImagine_Cena_24_Final.mp3",
+      "zip": "SeImagine_Cena_24_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_24_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 25,
+      "titulo": "O mundo se lembra",
+      "inicio_segundos": 711.5400833333333,
+      "fim_segundos": 734.7359166666666,
+      "duracao_segundos": 23.195833333333333,
+      "mp3": "Cena_25/SeImagine_Cena_25_Final.mp3",
+      "zip": "SeImagine_Cena_25_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_25_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    },
+    {
+      "cena": 26,
+      "titulo": "O último olhar",
+      "inicio_segundos": 734.7359166666666,
+      "fim_segundos": 757.8813958333333,
+      "duracao_segundos": 23.145479166666668,
+      "mp3": "Cena_26/SeImagine_Cena_26_Final.mp3",
+      "zip": "SeImagine_Cena_26_Final.zip",
+      "wav_local": "/workspace/dublagem_jesus/finalizacao_sonora_v2/filme_26_final/wavs_finais/SeImagine_Cena_26_Final.wav",
+      "status": "mixagem_cinematografica_concluida"
+    }
+  ],
+  "metricas_audio_continuo": {
+    "integrated_lufs": -18.05,
+    "true_peak_dbtp": -1.77,
+    "loudness_range_lu": 10.4
+  },
+  "dublagens_originais_preservadas": 125,
+  "dublagens_aprovadas_preservadas": 125,
+  "vozes_regeneradas": 0,
+  "will_2_utilizado": false,
+  "pitch_reaplicado": false,
+  "deus_reverb_aprovado_preservado": true,
+  "cenas_01_02_reutilizadas_sem_alteracao": true,
+  "creditos_nesta_finalizacao": {
+    "musica": 8851.0,
+    "efeitos": 1330.0,
+    "total": 10181
+  },
+  "creditos_finalizacao_sonora_desde_cena_01": 11556,
+  "saldo_creditos": 25045,
+  "compra_creditos_ou_plano": false,
+  "assets_novos": [
+    {
+      "asset": "escritorio",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 8,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Very quiet luxurious office room tone, soft air ventilation and distant subdued city beyond closed windows. Natural wide space, no hum tones, music, voices or sudden events."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:51.177815+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "80",
+        "content-length": "129192",
+        "content-type": "audio/mpeg"
+      },
+      "file": "escritorio.mp3",
+      "sha256": "ae05a6c7b41c1085cb7fcb516f30ea97ad00241752d25545440332fb9d1a6e9c",
+      "duration_seconds": 8.045714,
+      "bytes": 129192,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "copo",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 4,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Realistic quiet indoor Foley: tap water fills one drinking glass, tap stops, glass gently set on a kitchen counter. Close natural dry recording. No gulping, gurgling, voices, music or exaggerated water sounds."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:37.707619+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "40",
+        "content-length": "65244",
+        "content-type": "audio/mpeg"
+      },
+      "file": "copo.mp3",
+      "sha256": "8fd5b2edd8dbcca63b136cfe6eb0a1680197165296e1a14afe19c7b12e32336f",
+      "duration_seconds": 4.04898,
+      "bytes": 65244,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "paes",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 6,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Subtle food distribution Foley: soft bread rolls handled from a wicker basket, paper rustles and a bread roll gently torn in half. Intimate natural close recording. No crunching mouth sounds, speech, music or voices."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:41.773668+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "60",
+        "content-length": "97009",
+        "content-type": "audio/mpeg"
+      },
+      "file": "paes.mp3",
+      "sha256": "c576c6de01695c4cc738c896e136cee5907eab9af67fcb6804969b5d8d31d2a3",
+      "duration_seconds": 6.034286,
+      "bytes": 97009,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "incendio",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 12,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Natural stereo building fire ambience: broad restrained flame roar and soft wooden crackles, distant emergency sirens, no explosions, screaming, recognizable speech, voices or music. Realistic exterior perspective."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:56.200452+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "120",
+        "content-length": "193140",
+        "content-type": "audio/mpeg"
+      },
+      "file": "incendio.mp3",
+      "sha256": "df7fcafd4f40df735b6d10ba5d866d89d204a0bcb6a157af98dd7e5d7b1c36ff",
+      "duration_seconds": 12.042449,
+      "bytes": 193140,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_03",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 17000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 17 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Intimate discovery at home, mysterious sparse felt piano and soft luminous strings, water becoming wine, curious delicate warmth. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:12.204768+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "272553",
+        "content-type": "audio/mpeg",
+        "song-id": "CJK9Lwymyn2uxcOQO87i"
+      },
+      "file": "musica_cena_03.mp3",
+      "sha256": "9017601ace823616ff11ac952b94635c66370251f38b3ec0ae68ecc627f2aa29",
+      "duration_seconds": 17.031813,
+      "bytes": 272553,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_21",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 28000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 28 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Memories reveal a lifetime of small acts of generosity, warm intimate felt piano motif and sparse strings, compassionate discovery, quiet and reflective. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:04.151570+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "448514",
+        "content-type": "audio/mpeg",
+        "song-id": "NrJZaQRqMye7T4zfvDKI"
+      },
+      "file": "musica_cena_21.mp3",
+      "sha256": "0906404680c764f1b9cc21e0b6a9ffe3de68b68d33862d171988bb2e7ad2312e",
+      "duration_seconds": 28.029375,
+      "bytes": 448514,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "impacto",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 2,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "One restrained realistic blunt impact against fabric and a brief shuffle of shoes on pavement. Non-graphic film Foley, dry and natural. No cries, voices, gore, music or exaggerated cinematic boom."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:13.248326+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "20",
+        "content-length": "33061",
+        "content-type": "audio/mpeg"
+      },
+      "file": "impacto.mp3",
+      "sha256": "613b1234caf329a15a391faafbf235140e1679e5a059ee0df861c667b3bbc93f",
+      "duration_seconds": 2.037551,
+      "bytes": 33061,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_11",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 25000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 25 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Ordinary neighbors rescue a child without supernatural powers, intimate courage, gentle persistent acoustic pulse, warmth with uncertainty for his mother. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:12.296252+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "400866",
+        "content-type": "audio/mpeg",
+        "song-id": "YflUvI7kPMVH8umx3ZRH"
+      },
+      "file": "musica_cena_11.mp3",
+      "sha256": "cca0712586929879541098dc8ea7462fbe25b832bb7292e3f6b9238e2236a632",
+      "duration_seconds": 25.051375,
+      "bytes": 400866,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_07",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 41000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 41 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. An elegant business proposal becomes morally troubling, restrained low strings and sparse piano, subtle unease, no cartoon villain tone. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:39.681209+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "656657",
+        "content-type": "audio/mpeg",
+        "song-id": "9qZ2OOAuO8xKJO6mQJqJ"
+      },
+      "file": "musica_cena_07.mp3",
+      "sha256": "b622a2d421ec45b12a4d0af2e788fe8c10b2bef8f73219807428259a95cc1b4a",
+      "duration_seconds": 41.038313,
+      "bytes": 656657,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "inspiracao",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 2,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "One soft natural nonverbal human inhalation followed by gentle steady breathing, close quiet dry Foley. No words, crying, gasps of pain, choking, music or background sounds."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:31.695859+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "20",
+        "content-length": "33061",
+        "content-type": "audio/mpeg"
+      },
+      "file": "inspiracao.mp3",
+      "sha256": "0df541df1e61a2216d40317ecc6facbabf54d5901679a49002fa16d140e9ae58",
+      "duration_seconds": 2.037551,
+      "bytes": 33061,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_26",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 24000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 24 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A compassionate spirit witnesses ordinary people helping others, the quiet piano motif returns with warm restrained strings, sadness resolves toward subtle hope, gentle complete cinematic ending and long soft natural fade, never bombastic. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:33.116871+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "384566",
+        "content-type": "audio/mpeg",
+        "song-id": "aLZk6Px95RJQ0cTEgUwf"
+      },
+      "file": "musica_cena_26.mp3",
+      "sha256": "246e09ca033704cbadd241d25fc1b1e3e53cccfb1a90593483315acca03d25bb",
+      "duration_seconds": 24.032625,
+      "bytes": 384566,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_04",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 20000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 20 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Compassionate healing, a mother stands and embraces her son, tender strings and quiet piano, restrained human gratitude. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:18.579113+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "320618",
+        "content-type": "audio/mpeg",
+        "song-id": "F3MAwyeupdo2nD1Um5sT"
+      },
+      "file": "musica_cena_04.mp3",
+      "sha256": "902201d501d775f1c7ca4b413f57525fb878d155256d08b408211a82bc63c4b8",
+      "duration_seconds": 20.035875,
+      "bytes": 320618,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "passos_agua",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 5,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Several close realistic running footsteps skimming and splashing lightly on shallow water, organic brief surface contacts, no underwater bubbles, suction or gulping sounds. No voices or music."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:49.269796+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "50",
+        "content-length": "81127",
+        "content-type": "audio/mpeg"
+      },
+      "file": "passos_agua.mp3",
+      "sha256": "097ae3d70dc0a46515e6520f04ec377da5b49336ba0c51454db8fb034a3a6b18",
+      "duration_seconds": 5.041633,
+      "bytes": 81127,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_08",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 35000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 35 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Flood aftermath and a burning childrens shelter, urgent but restrained orchestral pulses, a desperate mother and an impossible moral dilemma, dialogue first. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:48.176169+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "560527",
+        "content-type": "audio/mpeg",
+        "song-id": "DOcpDNNeRtYSIfMOTnVh"
+      },
+      "file": "musica_cena_08.mp3",
+      "sha256": "0b19f9a0c3a9a50365e48a7b592b6e5863a342d0973b94346739f115fce55992",
+      "duration_seconds": 35.030188,
+      "bytes": 560527,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "colapso",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 12,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Cinematic realistic distant concrete buildings cracking and debris falling during an earthquake, low ground rumble and scattered masonry impacts, increasingly unstable then receding. No explosions, music, human voices or screams, no synthetic alarm."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:14.984604+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "120",
+        "content-length": "193140",
+        "content-type": "audio/mpeg"
+      },
+      "file": "colapso.mp3",
+      "sha256": "123e79bdd90cc717633220f14bc66e2768f602c3ddd9c91ef4b5a40895d29f0e",
+      "duration_seconds": 12.042449,
+      "bytes": 193140,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "porta",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 3,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "One office door quietly closing with a soft latch click, restrained natural wooden door Foley, no slam, speech, music or voices."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:54.242617+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "30",
+        "content-length": "48944",
+        "content-type": "audio/mpeg"
+      },
+      "file": "porta.mp3",
+      "sha256": "37b61deaad16ffcf61b167516ed2c81ea15c1f7cd7f2127764144f17f8afdd97",
+      "duration_seconds": 3.030204,
+      "bytes": 48944,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_19",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 28000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 28 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Meeting a serene divine presence in infinite space, almost silent airy bowed strings and isolated soft piano harmonics, immense but intimate, no choir, do not obscure either voice. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:03:53.469746+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "448514",
+        "content-type": "audio/mpeg",
+        "song-id": "TuN29OuBjUamiIetLC1c"
+      },
+      "file": "musica_cena_19.mp3",
+      "sha256": "b3b26afb1d0df3ffe5cf925a2d527fc7fe0a97985fe8364a39cc60d515fe650f",
+      "duration_seconds": 28.029375,
+      "bytes": 448514,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_17",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 19000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 19 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A child defends the kind protagonist and he protects her from violence, vulnerable restrained strings, sorrow and dignity, no aggressive heroism, end on a quiet unresolved human chord. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:03:45.251101+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "304736",
+        "content-type": "audio/mpeg",
+        "song-id": "04yUfPvMXgbRRQH7RiZo"
+      },
+      "file": "musica_cena_17.mp3",
+      "sha256": "c1890c63eb49cdc85f9b2a640fb9ea33e85b654fd96bdf94aeb5ca14041cb9fc",
+      "duration_seconds": 19.04325,
+      "bytes": 304736,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "energia",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 8,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Gentle organic cinematic energy release: warm airy luminous texture slowly expanding then dissolving, soft and serene. Subtle natural resonance, not metallic. No laser, videogame sounds, choir, music, voices, explosive hits or sharp sparkling bells."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:21.686689+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "80",
+        "content-length": "129192",
+        "content-type": "audio/mpeg"
+      },
+      "file": "energia.mp3",
+      "sha256": "8f3c067f288fdfa390159d1aa0ba60da73c06d7e2e8979a38657231a4b1bcdb3",
+      "duration_seconds": 8.045714,
+      "bytes": 129192,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_24",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 19000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 19 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A life is willingly surrendered and the world is restored, gentle expanding warm strings, profound sadness and compassion, small luminous harmonic release, fade into silence for the death in the physical world, no heroic victory. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:23.127051+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "304736",
+        "content-type": "audio/mpeg",
+        "song-id": "uR5owcz9oInSn2lwuFxV"
+      },
+      "file": "musica_cena_24.mp3",
+      "sha256": "b9aadc789c8b8df208788737c2a5ef067146b30dfa9ccf3fef27a8382505aebf",
+      "duration_seconds": 19.04325,
+      "bytes": 304736,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_22",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 52000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 52 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Vulnerable young man remembers hatred then ordinary compassion, delicate sorrowful piano slowly opening toward possibility, very sparse strings, emotional restraint, substantial breathing space and silence. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:09.429596+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "832618",
+        "content-type": "audio/mpeg",
+        "song-id": "25cLYEw9vFvKU2F4R5lW"
+      },
+      "file": "musica_cena_22.mp3",
+      "sha256": "fc563a46c668c06f95d92df5ef6fafdf0d854a3e0d501343f3c0ddaa5d37c605",
+      "duration_seconds": 52.035875,
+      "bytes": 832618,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_09",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 27000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 27 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Fire recedes and children are healed, fragile relief mixed with exhaustion, restrained tense strings opening into compassionate sparse piano. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:56.758191+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "432631",
+        "content-type": "audio/mpeg",
+        "song-id": "4Duwwbi6BeK5aWe7xKG4"
+      },
+      "file": "musica_cena_09.mp3",
+      "sha256": "2919c2361d58e02ca6f8acd7d304a4d9a081d938e119b5667b8bb1be36aa399b",
+      "duration_seconds": 27.036688,
+      "bytes": 432631,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 2287
+    },
+    {
+      "asset": "praca",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 12,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Quiet open city square ambience, light distant foot traffic and soft movement of clothing around a gathering, a vague indistinct nonverbal crowd texture very far away. No intelligible words, chanting, screaming, foreground voices or music."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:09.334662+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "120",
+        "content-length": "193140",
+        "content-type": "audio/mpeg"
+      },
+      "file": "praca.mp3",
+      "sha256": "804133f200de709615b357d1c47fd4bb86e85fc4f1781f3881688f0cb55fcc94",
+      "duration_seconds": 12.042449,
+      "bytes": 193140,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "noticias",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 5,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Subtle smartphone notifications and short camera shutter clicks, a few restrained isolated electronic chirps, realistic modern phones, no speech, music or rhythmic tune."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:06.975915+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "50",
+        "content-length": "81127",
+        "content-type": "audio/mpeg"
+      },
+      "file": "noticias.mp3",
+      "sha256": "28d5cf235b92b329360a8018a6c6aee056c6ff42c999b9b2beb88b92065f4059",
+      "duration_seconds": 5.041633,
+      "bytes": 81127,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "lago",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 10,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Natural stereo lakeshore ambience: gentle small waves, distant wooden boat creaks, soft open air. Quiet realistic background, no voices, no music, no loud bird calls."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:44.763836+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "100",
+        "content-length": "160957",
+        "content-type": "audio/mpeg"
+      },
+      "file": "lago.mp3",
+      "sha256": "71725ae8dce548fed7bd2dfc60a22eee209fcea0639d839f4d75b9b6f00dfdf5",
+      "duration_seconds": 10.03102,
+      "bytes": 160957,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_06",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 26000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 26 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A child rescued by walking on water, a restrained orchestral rise and gentle sense of wonder, curiosity as the news spreads. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:32.495123+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "416749",
+        "content-type": "audio/mpeg",
+        "song-id": "HWmxT5L37cPrrS1N6Uo2"
+      },
+      "file": "musica_cena_06.mp3",
+      "sha256": "cc2ecc20fe22206176d9a1421e2acbc0b721cdd8f329ae4fe577ced09a403e4c",
+      "duration_seconds": 26.044063,
+      "bytes": 416749,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "corda",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 5,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Close natural rescue Foley: wet rope pulled firmly across concrete, shoes carefully stepping on wet ground, soft water splashes. No underwater sounds, voices, breathing or music."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:04.099451+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "50",
+        "content-length": "81127",
+        "content-type": "audio/mpeg"
+      },
+      "file": "corda.mp3",
+      "sha256": "bc3cc403a55aa8b97ab782f85d5458c09e2d0360c3170f1c24839f5a3d04d530",
+      "duration_seconds": 5.041633,
+      "bytes": 81127,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_18",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 19000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 19 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. The sky fractures and the world collapses, low organic orchestral tension and slow rising strings, no percussion hits, no sound effects, abrupt retreat toward complete silence at the end. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:03:49.339211+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "304736",
+        "content-type": "audio/mpeg",
+        "song-id": "10k1kZt0G33C2FiOGEi5"
+      },
+      "file": "musica_cena_18.mp3",
+      "sha256": "0565bc4851793819dd5053384cdba6ff4422b83cf236ce521b74ea1bb39a4cf4",
+      "duration_seconds": 19.04325,
+      "bytes": 304736,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_15",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 14000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 14 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A quiet healing miracle is used as an accusation, a brief compassionate harmonic opening followed by restrained uneasy strings, no victory theme. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:42.794182+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "224488",
+        "content-type": "audio/mpeg",
+        "song-id": "FrF9wHPSS2NK3ubfBrWE"
+      },
+      "file": "musica_cena_15.mp3",
+      "sha256": "81a19f0bebd319666c75a0586c7c27f06ce92f5dba12b43fd1ee9a16f7d93467",
+      "duration_seconds": 14.02775,
+      "bytes": 224488,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asset": "celestial",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 12,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Extremely quiet immense empty-space atmosphere, soft airy pressure and a smooth distant natural resonance, serene and spacious, almost silence. No choir, voices, music, melody, metallic ringing, hum tones, synthetic pulse or dramatic whooshes."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:17.829403+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "120",
+        "content-length": "193140",
+        "content-type": "audio/mpeg"
+      },
+      "file": "celestial.mp3",
+      "sha256": "6156816a5f362f923060d4d9043417de17d348b234cf0a81f64875ec6ef2ccb6",
+      "duration_seconds": 12.042449,
+      "bytes": 193140,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "passos",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 5,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Quiet natural Foley: hesitant human footsteps on pavement become two steadier steps, subtle clothes movement. Dry close recording, no breath, speech, music or voices."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:39.692284+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "50",
+        "content-length": "81127",
+        "content-type": "audio/mpeg"
+      },
+      "file": "passos.mp3",
+      "sha256": "ad1e4f9f2f115d00007d5ed3739fac9ea1eb8b86286e7e03b6005d7b83adcb35",
+      "duration_seconds": 5.041633,
+      "bytes": 81127,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "homenagem",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 10,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Very quiet peaceful outdoor memorial ambience: soft breeze through trees, distant gentle footsteps, a flower softly placed on stone. Intimate restrained natural space, no voices, sobbing, music or loud birds."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:28.179048+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "100",
+        "content-length": "160957",
+        "content-type": "audio/mpeg"
+      },
+      "file": "homenagem.mp3",
+      "sha256": "185c5b6bd195d84c192730ba94068b7c11e7e827d87ce955a24f47fcb7b78403",
+      "duration_seconds": 10.03102,
+      "bytes": 160957,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_23",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 77000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 77 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Most emotionally important sacrifice decision. First third quiet uneasy piano, middle extremely sparse and vulnerable as the young man fears death, silence between questions and answers. Last third a contained warm string crescendo beneath his courageous words, never triumphant, end unresolved and retreat into silence. Human fragility and compassion, not heroic spectacle. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:15.320965+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "1232605",
+        "content-type": "audio/mpeg",
+        "song-id": "aH2EyEf2PjJdsp6xfIwp"
+      },
+      "file": "musica_cena_23.mp3",
+      "sha256": "0ca5c526e950327c4d22651a5f31ebbab0b9b16f1dcc2db18ba67cfbb6ae2664",
+      "duration_seconds": 77.035063,
+      "bytes": 1232605,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_13",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 24000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 24 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Public admiration becomes demands and doubt, quiet unsettled piano and low string texture, mounting pressure without aggressive beats. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:27.780160+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "384566",
+        "content-type": "audio/mpeg",
+        "song-id": "DWrRXw2A40K6iUfR65l6"
+      },
+      "file": "musica_cena_13.mp3",
+      "sha256": "f58b88a487f7b215e6f1a69f3d26290bab2fe246f89536692c102d1bf33417c9",
+      "duration_seconds": 24.032625,
+      "bytes": 384566,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_16",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 19000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 19 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A mother brings the truth but the crowd remains divided, a brief warm hopeful piano phrase meets tense unresolved strings. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:03:40.727603+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "304736",
+        "content-type": "audio/mpeg",
+        "song-id": "cx3e2aFOiX5JNvajIVce"
+      },
+      "file": "musica_cena_16.mp3",
+      "sha256": "cff74a52267ef8697d3d4fce4bdf7c78867e65c978e5a5f8ffd907fe1cc87604",
+      "duration_seconds": 19.04325,
+      "bytes": 304736,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_12",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 37000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 37 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A grieving mothers testimony is manipulated by a businessman, low restrained tension and sparse piano, human sadness beneath deception, no melodrama. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:19.837008+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "592710",
+        "content-type": "audio/mpeg",
+        "song-id": "GqWMtTKoLgLBVixmca77"
+      },
+      "file": "musica_cena_12.mp3",
+      "sha256": "8b3b63a22483a82f16b54bc6d7acfe206ba38329abff27b911e7b2e6f3118222",
+      "duration_seconds": 37.041625,
+      "bytes": 592710,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_14",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 30000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 30 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Public confrontation and a moral trap in a crowded square, restrained tense strings, dialogue leaves space, subtle unresolved pulse. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:35.322299+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "480697",
+        "content-type": "audio/mpeg",
+        "song-id": "zgMN74jPBJyFAJm4IyI1"
+      },
+      "file": "musica_cena_14.mp3",
+      "sha256": "918dcd035fb3b0d355632cdf92359dfd59c6ad78c8355ef152ba6f93c2b06a9d",
+      "duration_seconds": 30.040813,
+      "bytes": 480697,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_05",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 17000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 17 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Gentle hopeful food distribution montage, warm acoustic strings and light piano pulse, a child shares bread, intimate generosity. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:01:25.387672+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "272553",
+        "content-type": "audio/mpeg",
+        "song-id": "YO6fM8AmUmc0W8nKnujy"
+      },
+      "file": "musica_cena_05.mp3",
+      "sha256": "a33378cfb5e4f54a55693f395017f142971349b5633490e8c3f40d219994db4f",
+      "duration_seconds": 17.031813,
+      "bytes": 272553,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "musica_cena_25",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 24000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 24 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. A memorial and people rebuilding, intimate piano with restrained warm strings, grief and remorse gradually revealing modest human hope, room for silent gestures and a rescued dog resting by flowers. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:04:27.540565+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "384566",
+        "content-type": "audio/mpeg",
+        "song-id": "hfDVRj7yRcMd87klZ6vl"
+      },
+      "file": "musica_cena_25.mp3",
+      "sha256": "e9369f7c19a58c572c69086d900d797e094b7b73c2d9f80d362180011b9f23f4",
+      "duration_seconds": 24.032625,
+      "bytes": 384566,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_20",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 63000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 63 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. Quiet existential questioning beneath a serene divine explanation, sparse low strings and soft abstract acoustic harmonics, highly restrained, give long stretches to the speaking voices, no grand religious fanfare. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:03:57.896919+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "1008579",
+        "content-type": "audio/mpeg",
+        "song-id": "Xjq6avYH5ftTRMKe4v7F"
+      },
+      "file": "musica_cena_20.mp3",
+      "sha256": "2b2f06d040150c45309259163b3e20cc661b002b73d452bb34c39ecfc7402d9d",
+      "duration_seconds": 63.033438,
+      "bytes": 1008579,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    },
+    {
+      "asset": "musica_cena_10",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 23000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore, 23 seconds, for one scene in a cohesive intimate film about compassion and sacrifice. An exhausted rescuer faces a child without signs of life. Very sparse sorrowful strings at first, withdraw completely after the first six seconds. Leave the middle nearly silent for the miracle and the childs first breath. No triumphant swell. Recurring subtle three-note felt piano motif and organic bowed strings. Sparse arrangement beneath Portuguese dialogue, natural dynamics, no imitation of existing compositions or artists. No vocals, choir, lyrics, spoken words, sound effects, heavy drums or bombastic trailer music. Gentle natural fades; dialogue always has space."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:02:04.428957+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "368684",
+        "content-type": "audio/mpeg",
+        "song-id": "XXjBE4kzTyg0F0pKtzpC"
+      },
+      "file": "musica_cena_10.mp3",
+      "sha256": "47c8be6d76865aa065e6193dd244113c3b6b74186595fdd3b08441a4ebde9a45",
+      "duration_seconds": 23.04,
+      "bytes": 368684,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 7061,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    {
+      "asset": "emergencia",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 12,
+        "loop": true,
+        "prompt_influence": 0.7,
+        "text": "Quiet flooded urban emergency aftermath ambience: distant ambulance siren, soft runoff water, occasional very distant footsteps, no voices or speech, no music, no heavy rain. Wide realistic exterior."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T22:05:00.380294+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "balance_is_batch_start": true,
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "120",
+        "content-length": "193140",
+        "content-type": "audio/mpeg"
+      },
+      "file": "emergencia.mp3",
+      "sha256": "4f86e6ad6e6a898e4aa50bd8d7a32ed3380194e5640fe36dec94a1789d8b78ec",
+      "duration_seconds": 12.042449,
+      "bytes": 193140,
+      "channels": 2,
+      "sample_rate": "44100",
+      "account_cost_verification": "deferred_to_final_batch_balance_and_product_usage"
+    }
+  ],
+  "sincronizacao": "Áudio cinematográfico completo para audição. Tempos de ações editoriais; sincronização final com animação depende do corte de imagem."
+}

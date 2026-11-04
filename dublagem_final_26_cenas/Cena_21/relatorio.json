@@ -1,0 +1,87 @@
+{
+  "cena": 21,
+  "titulo": "A origem dos poderes",
+  "status": "complete",
+  "duracao_segundos": 27.62025,
+  "dialogos": [
+    {
+      "id": "cena_21_fala_001",
+      "personagem": "Protagonista",
+      "texto_exato": "Mas por que eu? Por que recebi esses poderes?",
+      "inicio_segundos": 1.62,
+      "fim_fala_segundos": 5.14,
+      "fim_cauda_segundos": 5.14,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_21_fala_002",
+      "personagem": "Deus",
+      "texto_exato": "Quando o equilíbrio começou a colapsar, a força que preserva a vida buscou um caminho para resistir.",
+      "inicio_segundos": 8.54,
+      "fim_fala_segundos": 14.86,
+      "fim_cauda_segundos": 16.90025,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_21_fala_003",
+      "personagem": "Deus",
+      "texto_exato": "Foi em você que essa força encontrou uma afinidade genuína e acabou sendo atraída para sua essência.",
+      "inicio_segundos": 16.26,
+      "fim_fala_segundos": 22.58,
+      "fim_cauda_segundos": 24.62025,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 27.62025
+    },
+    {
+      "tipo": "efeito",
+      "asset": "chuva",
+      "inicio": 5.239999999999999,
+      "fim": 7.239999999999999
+    },
+    {
+      "tipo": "efeito",
+      "asset": "energia",
+      "inicio": 24.72025,
+      "fim": 26.72025
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Memories reveal a lifetime of small acts of generosity, warm intimate felt piano motif and sparse strings, compassionate discovery, quiet and reflective.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 15.3
+    },
+    ".mp3": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 15.4
+    }
+  },
+  "ganho_comum_master_db": 8.64,
+  "sha256": {
+    "SeImagine_Cena_21_Final.wav": "cbe8c79a8a630a37a76d179094c4f92908cfc737873dc41f55c927fd93b9ce1c",
+    "SeImagine_Cena_21_Final.mp3": "b8ad8308307cb92adac3f4bd2389413e2325d290ec1d6050587c695def14bfa8"
+  }
+}

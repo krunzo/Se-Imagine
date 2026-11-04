@@ -1,0 +1,7 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_09_fala_001,Mãe,3.12,6.24,6.24,Você conseguiu! Agora vem comigo!
+cena_09_fala_002,Bombeiro,6.64,8.72,8.72,Ela não está respirando direito!
+cena_09_fala_003,Protagonista,9.12,12.72,12.72,Elas ainda estão morrendo. Eu não posso deixá-las!
+cena_09_fala_004,Narrador,13.62,15.059645833333333,15.059645833333333,O incêndio acabou.
+cena_09_fala_005,Narrador,15.219645833333333,18.3775625,18.3775625,Mas aquelas crianças ainda estavam à beira da morte.
+cena_09_fala_006,Narrador,20.7775625,24.678520833333334,24.678520833333334,"E, a cada vida salva, você sente suas forças diminuírem."

@@ -1,0 +1,80 @@
+{
+  "capitulo": 1,
+  "revisao": 2,
+  "motivo": "Substituição do efeito de água indicado pelo usuário em 00:22",
+  "janela_editada_segundos": [
+    21.0,
+    26.65
+  ],
+  "duracao_segundos": 36.95516666666666,
+  "asset_novo": {
+    "asset": "agua_natural",
+    "provider": "ElevenLabs",
+    "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+    "request_body": {
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 6.0,
+      "loop": false,
+      "prompt_influence": 0.75,
+      "text": "Dry realistic close Foley of hands paddling and swimming on the surface of fast flowing floodwater, gentle irregular splashes and swishes, then water dripping against a concrete curb. Natural water only, restrained and believable field recording. No underwater bubbles, gurgles, suction, liquid gulping, human breath, voices, animal sounds, music, synthetic tones or dramatic effects. Smooth continuous six second take."
+    },
+    "status": "complete",
+    "started_utc": "2026-11-04T21:03:44.310376+00:00",
+    "balance_before": {
+      "tier": "starter",
+      "status": "active",
+      "character_count": 4714,
+      "character_limit": 40000,
+      "can_extend_character_limit": false
+    },
+    "max_requests": 1,
+    "approved_dialogue_regenerated": false,
+    "response_headers": {
+      "character-cost": "60",
+      "content-length": "97009",
+      "content-type": "audio/mpeg"
+    },
+    "file": "agua_natural.mp3",
+    "sha256": "6d62d503556406dd5c281845d085195096b2b803085cf607c3a481556b400b87",
+    "duration_seconds": 6.034286,
+    "bytes": 97009,
+    "channels": 2,
+    "sample_rate": "44100",
+    "balance_after": {
+      "tier": "starter",
+      "status": "active",
+      "character_count": 4714,
+      "character_limit": 40000,
+      "can_extend_character_limit": false
+    },
+    "account_credits_delta": 0
+  },
+  "alteracoes": "Foley de água na superfície, sem borbulhas/sucção, transições suaves, nível de pico 4 dB inferior ao efeito anterior.",
+  "fora_da_janela_pcm_identico": true,
+  "dialogos_regenerados": false,
+  "musica_regenerada": false,
+  "versao_anterior_preservada": "/workspace/dublagem_jesus/finalizacao_sonora_v2/capitulo_01/SeImagine_Capitulo_01_Cinematografico.wav",
+  "versao_anterior_sha256": "bc3efd4a8f9c351b9debfd10ef4494bcebd23ab95c49b93da30df666b20e89a3",
+  "capitulo_02_preservado": true,
+  "pitch_velocidade_timeline_alterados": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 8.8
+    },
+    ".mp3": {
+      "integrated_lufs": -18.61,
+      "true_peak_dbtp": -1.81,
+      "loudness_range_lu": 8.9
+    }
+  },
+  "creditos_informados_cabecalho_api": 60.0,
+  "arquivos_sha256": {
+    "SeImagine_Capitulo_01_Cinematografico_v2.wav": "d8c11867bdb629997f23edfecb587f6357af8a2c1222cacf13af124b77b92948",
+    "SeImagine_Capitulo_01_Cinematografico_v2.mp3": "48a13d7ad11043701da2b9fb1ec0ac67ee590e97262fa6e60aa96967ebd3ef19",
+    "Capitulo_01_Trecho_Corrigido_18a28s.mp3": "ce4b7c21e690322eb89189042374e49ce08780b961a1b2fe6988574e025db29c"
+  },
+  "creditos_reais": 60,
+  "cena_completa": true
+}

@@ -1,0 +1,136 @@
+{
+  "cena": 12,
+  "titulo": "A entrevista",
+  "status": "complete",
+  "duracao_segundos": 36.051541666666665,
+  "dialogos": [
+    {
+      "id": "cena_12_fala_001",
+      "personagem": "Empresário",
+      "texto_exato": "Soube do que aconteceu. Talvez eu possa ajudar a encontrar seu filho.",
+      "inicio_segundos": 1.12,
+      "fim_fala_segundos": 5.52,
+      "fim_cauda_segundos": 5.52,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_002",
+      "personagem": "Empresário",
+      "texto_exato": "Você pediu ajuda àquele homem?",
+      "inicio_segundos": 5.92,
+      "fim_fala_segundos": 8.16,
+      "fim_cauda_segundos": 8.16,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_003",
+      "personagem": "Mãe",
+      "texto_exato": "Pedi... Eu implorei.",
+      "inicio_segundos": 8.46,
+      "fim_fala_segundos": 11.02,
+      "fim_cauda_segundos": 11.02,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_004",
+      "personagem": "Empresário",
+      "texto_exato": "E ele foi salvar seu filho?",
+      "inicio_segundos": 11.32,
+      "fim_fala_segundos": 13.24,
+      "fim_cauda_segundos": 13.24,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_005",
+      "personagem": "Mãe",
+      "texto_exato": "Não... Ele estava salvando aquelas crianças. Fez tudo o que podia, até desmaiou...",
+      "inicio_segundos": 13.54,
+      "fim_fala_segundos": 19.86,
+      "fim_cauda_segundos": 19.86,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_006",
+      "personagem": "Narrador",
+      "texto_exato": "O empresário publica a entrevista.",
+      "inicio_segundos": 22.26,
+      "fim_fala_segundos": 24.582,
+      "fim_cauda_segundos": 24.582,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_007",
+      "personagem": "Narrador",
+      "texto_exato": "Mas elimina justamente a parte que explicava por que você não conseguiu ajudá-la.",
+      "inicio_segundos": 24.742,
+      "fim_fala_segundos": 29.571770833333332,
+      "fim_cauda_segundos": 29.571770833333332,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_12_fala_008",
+      "personagem": "Narrador",
+      "texto_exato": "E uma história de coragem começa a ser contada como uma história de abandono.",
+      "inicio_segundos": 29.971770833333334,
+      "fim_fala_segundos": 34.801541666666665,
+      "fim_cauda_segundos": 34.801541666666665,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "escritorio",
+      "inicio": 0,
+      "fim": 36.051541666666665
+    },
+    {
+      "tipo": "efeito",
+      "asset": "noticias",
+      "inicio": 20.76,
+      "fim": 25.76
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A grieving mothers testimony is manipulated by a businessman, low restrained tension and sparse piano, human sadness beneath deception, no melodrama.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.04,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 5.9
+    },
+    ".mp3": {
+      "integrated_lufs": -18.04,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 5.9
+    }
+  },
+  "ganho_comum_master_db": 11.530000000000001,
+  "sha256": {
+    "SeImagine_Cena_12_Final.wav": "dc1827279cf9880a75ae055da4cd5fa62e2b2ac9dea60883cd84902115b8993e",
+    "SeImagine_Cena_12_Final.mp3": "cd55d3e11fa36025f56f498746f69e544a95241e30b863196e6e61253afdc2ad"
+  }
+}

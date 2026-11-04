@@ -1,0 +1,103 @@
+{
+  "cena": 14,
+  "titulo": "A armadilha pública",
+  "status": "complete",
+  "duracao_segundos": 29.948520833333333,
+  "dialogos": [
+    {
+      "id": "cena_14_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Então o empresário organiza um grande evento, prometendo dar a você a oportunidade de esclarecer as acusações.",
+      "inicio_segundos": 1.12,
+      "fim_fala_segundos": 8.457520833333334,
+      "fim_cauda_segundos": 8.457520833333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_14_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Você aceita.",
+      "inicio_segundos": 8.617520833333334,
+      "fim_fala_segundos": 9.778520833333333,
+      "fim_cauda_segundos": 9.778520833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_14_fala_003",
+      "personagem": "Empresário",
+      "texto_exato": "Você consegue salvar vidas em segundos. Então por que aquela mãe precisou implorar por ajuda?",
+      "inicio_segundos": 11.178520833333334,
+      "fim_fala_segundos": 17.578520833333332,
+      "fim_cauda_segundos": 17.578520833333332,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_14_fala_004",
+      "personagem": "Protagonista",
+      "texto_exato": "Havia crianças morrendo naquele abrigo. Eu não podia abandoná-las!",
+      "inicio_segundos": 17.878520833333333,
+      "fim_fala_segundos": 22.43852083333333,
+      "fim_cauda_segundos": 22.43852083333333,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_14_fala_005",
+      "personagem": "Empresário",
+      "texto_exato": "E quem deu a você o direito de decidir quais vidas mereciam ser salvas?",
+      "inicio_segundos": 22.738520833333332,
+      "fim_fala_segundos": 27.698520833333333,
+      "fim_cauda_segundos": 27.698520833333333,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "praca",
+      "inicio": 0,
+      "fim": 29.948520833333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos",
+      "inicio": 9.378520833333333,
+      "fim": 14.378520833333333
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Public confrontation and a moral trap in a crowded square, restrained tense strings, dialogue leaves space, subtle unresolved pulse.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 7.5
+    },
+    ".mp3": {
+      "integrated_lufs": -18.01,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 7.5
+    }
+  },
+  "ganho_comum_master_db": 9.899999999999999,
+  "sha256": {
+    "SeImagine_Cena_14_Final.wav": "e2ecd5f25b5f1045175a75e2cd394518aad25d58b96ad05adcfc02534b929959",
+    "SeImagine_Cena_14_Final.mp3": "d31724d1b01e7de4f10d40e5c1c664179c6e9480e24dd52b6a46655f9ab08acd"
+  }
+}

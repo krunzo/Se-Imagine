@@ -1,0 +1,76 @@
+{
+  "cena": 5,
+  "titulo": "O pão que não acaba",
+  "status": "complete",
+  "duracao_segundos": 16.786166666666666,
+  "dialogos": [
+    {
+      "id": "cena_05_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "E quanto mais descobre seus poderes, mais pessoas você consegue ajudar.",
+      "inicio_segundos": 1.12,
+      "fim_fala_segundos": 5.996208333333334,
+      "fim_cauda_segundos": 5.996208333333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_05_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Dessa vez, o milagre não veio das suas mãos.",
+      "inicio_segundos": 11.396208333333334,
+      "fim_fala_segundos": 14.136166666666666,
+      "fim_cauda_segundos": 14.136166666666666,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "praca",
+      "inicio": 0,
+      "fim": 16.786166666666666
+    },
+    {
+      "tipo": "efeito",
+      "asset": "paes",
+      "inicio": 6.196208333333334,
+      "fim": 12.196208333333335
+    },
+    {
+      "tipo": "efeito",
+      "asset": "paes",
+      "inicio": 9.596208333333333,
+      "fim": 15.596208333333333
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Gentle hopeful food distribution montage, warm acoustic strings and light piano pulse, a child shares bread, intimate generosity.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 11.0
+    },
+    ".mp3": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 11.0
+    }
+  },
+  "ganho_comum_master_db": 13.920000000000002,
+  "sha256": {
+    "SeImagine_Cena_05_Final.wav": "e64b5970290e5e06196c1c41367c51385f4622cf16e61bf78f0b27fa8535d6ae",
+    "SeImagine_Cena_05_Final.mp3": "e25e9891a2724560e0da36a989ad4134c25b8f105b0ed384779507747f306d41"
+  }
+}

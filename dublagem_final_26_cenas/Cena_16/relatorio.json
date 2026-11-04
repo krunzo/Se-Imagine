@@ -1,0 +1,92 @@
+{
+  "cena": 16,
+  "titulo": "A verdade chega",
+  "status": "complete",
+  "duracao_segundos": 18.017041666666668,
+  "dialogos": [
+    {
+      "id": "cena_16_fala_001",
+      "personagem": "Mãe",
+      "texto_exato": "Parem! Meu filho está vivo!",
+      "inicio_segundos": 2.12,
+      "fim_fala_segundos": 4.76,
+      "fim_cauda_segundos": 4.76,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_16_fala_002",
+      "personagem": "Mãe",
+      "texto_exato": "Ele estava salvando aquelas crianças! Vocês não entenderam!",
+      "inicio_segundos": 5.16,
+      "fim_fala_segundos": 9.32,
+      "fim_cauda_segundos": 9.32,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_16_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "A verdade finalmente aparece.",
+      "inicio_segundos": 10.72,
+      "fim_fala_segundos": 12.716916666666666,
+      "fim_cauda_segundos": 12.716916666666666,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_16_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "Mas a revolta já cresceu para muito além daquela história.",
+      "inicio_segundos": 12.876916666666666,
+      "fim_fala_segundos": 16.267041666666668,
+      "fim_cauda_segundos": 16.267041666666668,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "praca",
+      "inicio": 0,
+      "fim": 18.017041666666668
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos",
+      "inicio": 0,
+      "fim": 5.0
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A mother brings the truth but the crowd remains divided, a brief warm hopeful piano phrase meets tense unresolved strings.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.01,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 9.6
+    },
+    ".mp3": {
+      "integrated_lufs": -18.01,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 9.6
+    }
+  },
+  "ganho_comum_master_db": 11.079999999999998,
+  "sha256": {
+    "SeImagine_Cena_16_Final.wav": "bb1faa46f6b29a274ab214a55a1cf36c7c5ab7f143ec62ebd7cf10787ef6e28d",
+    "SeImagine_Cena_16_Final.mp3": "a8df1309688e0057756dba457d5deaef3ea9da63cf4694164b2188fce27c73ff"
+  }
+}

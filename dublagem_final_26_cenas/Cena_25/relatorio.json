@@ -1,0 +1,87 @@
+{
+  "cena": 25,
+  "titulo": "O mundo se lembra",
+  "status": "complete",
+  "duracao_segundos": 23.195833333333333,
+  "dialogos": [
+    {
+      "id": "cena_25_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "O mundo jamais esqueceu aquele homem.",
+      "inicio_segundos": 2.12,
+      "fim_fala_segundos": 4.534895833333334,
+      "fim_cauda_segundos": 4.534895833333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_25_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Nem as vidas que salvou.",
+      "inicio_segundos": 4.694895833333334,
+      "fim_fala_segundos": 6.36675,
+      "fim_cauda_segundos": 6.36675,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_25_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "E muitos jamais esqueceriam a maneira como o trataram quando ainda estava vivo.",
+      "inicio_segundos": 7.52675,
+      "fim_fala_segundos": 12.495833333333334,
+      "fim_cauda_segundos": 12.495833333333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "homenagem",
+      "inicio": 0,
+      "fim": 23.195833333333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos",
+      "inicio": 13.495833333333334,
+      "fim": 18.495833333333334
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cachorro",
+      "inicio": 18.195833333333333,
+      "fim": 21.195833333333333
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A memorial and people rebuilding, intimate piano with restrained warm strings, grief and remorse gradually revealing modest human hope, room for silent gestures and a rescued dog resting by flowers.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.01,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 11.6
+    },
+    ".mp3": {
+      "integrated_lufs": -18.01,
+      "true_peak_dbtp": -1.81,
+      "loudness_range_lu": 11.6
+    }
+  },
+  "ganho_comum_master_db": 13.21,
+  "sha256": {
+    "SeImagine_Cena_25_Final.wav": "513ca8e96bd73daf0365f3a4e55f4cf401705a89a0f7aac3b55d74b73911e77e",
+    "SeImagine_Cena_25_Final.mp3": "9cf59edff2697639a6c9a64897c5efc2b31c04a39cd1e5ff48f004ca5486976a"
+  }
+}

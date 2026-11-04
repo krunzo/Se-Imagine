@@ -1,0 +1,9 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_08_fala_001,Narrador,2.12,6.6246875,6.6246875,"Dias depois, outra tempestade deixa bairros inteiros debaixo d'água."
+cena_08_fala_002,Narrador,6.7846875,8.642291666666667,8.642291666666667,A chuva finalmente para.
+cena_08_fala_003,Narrador,8.802291666666667,11.820895833333333,11.820895833333333,Mas a cidade continua em estado de emergência.
+cena_08_fala_004,Bombeiro,14.220895833333334,16.380895833333334,16.380895833333334,Ainda tem crianças lá dentro!
+cena_08_fala_005,Mãe,16.780895833333332,18.940895833333332,18.940895833333332,Por favor! Me ajuda!
+cena_08_fala_006,Mãe,19.340895833333335,24.860895833333334,24.860895833333334,Meu filho está preso em casa! A água está subindo! Você precisa salvá-lo!
+cena_08_fala_007,Protagonista,25.260895833333333,28.620895833333332,28.620895833333332,Ainda tem crianças lá dentro! Eu preciso entrar!
+cena_08_fala_008,Mãe,28.920895833333333,32.92089583333333,32.92089583333333,Mas o meu filho também é uma criança! Ele está sozinho!

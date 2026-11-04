@@ -1,0 +1,109 @@
+{
+  "cena": 11,
+  "titulo": "Sem poderes",
+  "status": "complete",
+  "duracao_segundos": 24.665020833333333,
+  "dialogos": [
+    {
+      "id": "cena_11_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Enquanto você permanece inconsciente, dois moradores encontram o filho daquela mulher.",
+      "inicio_segundos": 2.12,
+      "fim_fala_segundos": 7.228395833333333,
+      "fim_cauda_segundos": 7.228395833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_11_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Sem nenhum poder sobrenatural, arriscam a própria vida para salvá-lo.",
+      "inicio_segundos": 7.388395833333333,
+      "fim_fala_segundos": 12.125270833333333,
+      "fim_cauda_segundos": 12.125270833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_11_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "Ele está vivo.",
+      "inicio_segundos": 14.525270833333334,
+      "fim_fala_segundos": 15.732729166666667,
+      "fim_cauda_segundos": 15.732729166666667,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_11_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "Mas perdeu o celular e foi levado para uma região que sua mãe não consegue alcançar.",
+      "inicio_segundos": 15.892729166666667,
+      "fim_fala_segundos": 20.536729166666667,
+      "fim_cauda_segundos": 20.536729166666667,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_11_fala_005",
+      "personagem": "Narrador",
+      "texto_exato": "Ela continua sem notícias.",
+      "inicio_segundos": 20.696729166666668,
+      "fim_fala_segundos": 22.415020833333333,
+      "fim_cauda_segundos": 22.415020833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "emergencia",
+      "inicio": 0,
+      "fim": 24.665020833333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "corda",
+      "inicio": 7.428395833333333,
+      "fim": 12.428395833333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos",
+      "inicio": 13.525270833333334,
+      "fim": 18.525270833333334
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Ordinary neighbors rescue a child without supernatural powers, intimate courage, gentle persistent acoustic pulse, warmth with uncertainty for his mother.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.06,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 11.6
+    },
+    ".mp3": {
+      "integrated_lufs": -18.06,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 11.6
+    }
+  },
+  "ganho_comum_master_db": 11.329999999999998,
+  "sha256": {
+    "SeImagine_Cena_11_Final.wav": "8c5c6b03e42a9eed36342a77568598c57bb498a1086070ae9d7f839d3b807627",
+    "SeImagine_Cena_11_Final.mp3": "a2c9e5b83871e2a4ac878c2c3c604881e01474997b899451bad191447284b1d2"
+  }
+}

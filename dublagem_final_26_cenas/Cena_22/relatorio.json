@@ -1,0 +1,151 @@
+{
+  "cena": 22,
+  "titulo": "A humanidade",
+  "status": "complete",
+  "duracao_segundos": 51.35,
+  "dialogos": [
+    {
+      "id": "cena_22_fala_001",
+      "personagem": "Protagonista",
+      "texto_exato": "Eu só queria ajudar...",
+      "inicio_segundos": 1.62,
+      "fim_fala_segundos": 3.22,
+      "fim_cauda_segundos": 3.22,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_22_fala_002",
+      "personagem": "Protagonista",
+      "texto_exato": "Curei pessoas, alimentei famílias, salvei vidas...",
+      "inicio_segundos": 3.45,
+      "fim_fala_segundos": 7.77,
+      "fim_cauda_segundos": 7.77,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_22_fala_003",
+      "personagem": "Protagonista",
+      "texto_exato": "E mesmo assim, eles me odiaram.",
+      "inicio_segundos": 8.0,
+      "fim_fala_segundos": 10.64,
+      "fim_cauda_segundos": 10.64,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_22_fala_004",
+      "personagem": "Deus",
+      "texto_exato": "O mal faz ruído. O bem, muitas vezes, acontece em silêncio.",
+      "inicio_segundos": 13.34,
+      "fim_fala_segundos": 18.78,
+      "fim_cauda_segundos": 20.819979166666666,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_22_fala_005",
+      "personagem": "Deus",
+      "texto_exato": "Não confunda aquilo que grita alto com aquilo que possui maior valor.",
+      "inicio_segundos": 20.38,
+      "fim_fala_segundos": 24.86,
+      "fim_cauda_segundos": 26.899979166666668,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_22_fala_006",
+      "personagem": "Protagonista",
+      "texto_exato": "Mesmo sem poderes... eles arriscaram tudo por pessoas que nem conheciam.",
+      "inicio_segundos": 26.76,
+      "fim_fala_segundos": 32.04,
+      "fim_cauda_segundos": 32.04,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_22_fala_007",
+      "personagem": "Protagonista",
+      "texto_exato": "Mas as pessoas também são capazes de tanta crueldade...",
+      "inicio_segundos": 32.44,
+      "fim_fala_segundos": 36.2,
+      "fim_cauda_segundos": 36.2,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_22_fala_008",
+      "personagem": "Deus",
+      "texto_exato": "A liberdade que permite a crueldade é a mesma que torna a compaixão possível.",
+      "inicio_segundos": 37.5,
+      "fim_fala_segundos": 42.78,
+      "fim_cauda_segundos": 44.81997916666667,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_22_fala_009",
+      "personagem": "Protagonista",
+      "texto_exato": "Então... elas ainda podem mudar.",
+      "inicio_segundos": 44.98,
+      "fim_fala_segundos": 48.1,
+      "fim_cauda_segundos": 48.1,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 51.349999999999994
+    }
+  ],
+  "silencios": [
+    [
+      10.790000000000001,
+      13.24
+    ],
+    [
+      48.4,
+      51.349999999999994
+    ]
+  ],
+  "direcao_musical": "Vulnerable young man remembers hatred then ordinary compassion, delicate sorrowful piano slowly opening toward possibility, very sparse strings, emotional restraint, substantial breathing space and silence.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 8.2
+    },
+    ".mp3": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 8.2
+    }
+  },
+  "ganho_comum_master_db": 9.149999999999999,
+  "sha256": {
+    "SeImagine_Cena_22_Final.wav": "95d95ab4b84145d7330f3967ce76f19e5b7bccf1a4ee2329f1140270a9a265ce",
+    "SeImagine_Cena_22_Final.mp3": "7b4a7bda4409b7903fc7e25fd38ad098e745cfbf40bc97d2bf7dbb37e91ee55c"
+  },
+  "silencio_terminal_validado_ate_ultima_amostra": true
+}

@@ -1,0 +1,236 @@
+{
+  "cena": 23,
+  "titulo": "A escolha",
+  "status": "complete",
+  "duracao_segundos": 76.95,
+  "dialogos": [
+    {
+      "id": "cena_23_fala_001",
+      "personagem": "Protagonista",
+      "texto_exato": "Como faço para salvar o mundo?",
+      "inicio_segundos": 1.62,
+      "fim_fala_segundos": 3.94,
+      "fim_cauda_segundos": 3.94,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_002",
+      "personagem": "Deus",
+      "texto_exato": "O equilíbrio não conta quantas escolhas foram feitas. Ele responde ao peso de cada uma.",
+      "inicio_segundos": 7.14,
+      "fim_fala_segundos": 13.22,
+      "fim_cauda_segundos": 15.259979166666668,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_23_fala_003",
+      "personagem": "Protagonista",
+      "texto_exato": "Se eu pudesse... entregaria todos os meus poderes.",
+      "inicio_segundos": 15.12,
+      "fim_fala_segundos": 19.44,
+      "fim_cauda_segundos": 19.44,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_004",
+      "personagem": "Protagonista",
+      "texto_exato": "Tudo o que recebi.",
+      "inicio_segundos": 19.67,
+      "fim_fala_segundos": 21.03,
+      "fim_cauda_segundos": 21.03,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_005",
+      "personagem": "Protagonista",
+      "texto_exato": "Só para que eles tivessem mais uma chance.",
+      "inicio_segundos": 21.26,
+      "fim_fala_segundos": 23.82,
+      "fim_cauda_segundos": 23.82,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_006",
+      "personagem": "Deus",
+      "texto_exato": "Isso é possível.",
+      "inicio_segundos": 25.02,
+      "fim_fala_segundos": 26.3,
+      "fim_cauda_segundos": 28.339979166666666,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_23_fala_007",
+      "personagem": "Deus",
+      "texto_exato": "Mas a força que sustenta seus milagres também mantém vivo seu corpo ferido.",
+      "inicio_segundos": 26.7,
+      "fim_fala_segundos": 31.98,
+      "fim_cauda_segundos": 34.019979166666666,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_23_fala_008",
+      "personagem": "Deus",
+      "texto_exato": "Se entregá-la por inteiro, sua vida na Terra chegará ao fim.",
+      "inicio_segundos": 32.21,
+      "fim_fala_segundos": 36.37,
+      "fim_cauda_segundos": 38.409979166666666,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_23_fala_009",
+      "personagem": "Protagonista",
+      "texto_exato": "Então... eu vou morrer?",
+      "inicio_segundos": 37.77,
+      "fim_fala_segundos": 40.09,
+      "fim_cauda_segundos": 40.09,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_010",
+      "personagem": "Protagonista",
+      "texto_exato": "Eu tenho medo...",
+      "inicio_segundos": 44.29,
+      "fim_fala_segundos": 45.73,
+      "fim_cauda_segundos": 45.73,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_011",
+      "personagem": "Deus",
+      "texto_exato": "A coragem nunca exigiu a ausência do medo.",
+      "inicio_segundos": 46.03,
+      "fim_fala_segundos": 49.31,
+      "fim_cauda_segundos": 51.349979166666664,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_23_fala_012",
+      "personagem": "Protagonista",
+      "texto_exato": "Eu queria ter mais tempo...",
+      "inicio_segundos": 52.51,
+      "fim_fala_segundos": 54.43,
+      "fim_cauda_segundos": 54.43,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_013",
+      "personagem": "Protagonista",
+      "texto_exato": "Mas eles ainda têm muito a viver.",
+      "inicio_segundos": 58.83,
+      "fim_fala_segundos": 61.15,
+      "fim_cauda_segundos": 61.15,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_014",
+      "personagem": "Protagonista",
+      "texto_exato": "Tô com medo...",
+      "inicio_segundos": 63.05,
+      "fim_fala_segundos": 64.33,
+      "fim_cauda_segundos": 64.33,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_015",
+      "personagem": "Protagonista",
+      "texto_exato": "Mas minha escolha continua a mesma.",
+      "inicio_segundos": 66.53,
+      "fim_fala_segundos": 69.17,
+      "fim_cauda_segundos": 69.17,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_23_fala_016",
+      "personagem": "Protagonista",
+      "texto_exato": "Eu entrego tudo.",
+      "inicio_segundos": 70.57,
+      "fim_fala_segundos": 72.25,
+      "fim_cauda_segundos": 72.25,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 76.95
+    }
+  ],
+  "silencios": [
+    [
+      4.09,
+      6.989999999999999
+    ],
+    [
+      40.24,
+      44.14
+    ],
+    [
+      54.58,
+      58.68
+    ],
+    [
+      72.4,
+      76.95
+    ]
+  ],
+  "direcao_musical": "Most emotionally important sacrifice decision. First third quiet uneasy piano, middle extremely sparse and vulnerable as the young man fears death, silence between questions and answers. Last third a contained warm string crescendo beneath his courageous words, never triumphant, end unresolved and retreat into silence. Human fragility and compassion, not heroic spectacle.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -17.97,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 10.7
+    },
+    ".mp3": {
+      "integrated_lufs": -17.97,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 10.7
+    }
+  },
+  "ganho_comum_master_db": 8.629999999999999,
+  "sha256": {
+    "SeImagine_Cena_23_Final.wav": "51a93901d78e071168337fd083c589eba6c63488a5627c2000d62750cf8ff8de",
+    "SeImagine_Cena_23_Final.mp3": "f3e4f5cbce3e62df08d1961fc69577517dc47fab495236e28b349ffcb4493fd6"
+  },
+  "silencio_terminal_validado_ate_ultima_amostra": true
+}

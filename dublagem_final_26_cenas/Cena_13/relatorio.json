@@ -1,0 +1,92 @@
+{
+  "cena": 13,
+  "titulo": "Da admiração à cobrança",
+  "status": "complete",
+  "duracao_segundos": 23.662604166666668,
+  "dialogos": [
+    {
+      "id": "cena_13_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Quando recupera suas forças, descobre que muitas pessoas já não enxergam seus milagres da mesma maneira.",
+      "inicio_segundos": 1.12,
+      "fim_fala_segundos": 8.086,
+      "fim_cauda_segundos": 8.086,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_13_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Se você consegue salvar vidas em segundos, por que ainda existem pessoas morrendo?",
+      "inicio_segundos": 9.286,
+      "fim_fala_segundos": 14.347958333333333,
+      "fim_cauda_segundos": 14.347958333333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_13_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "Se pode multiplicar alimentos, por que ainda existe fome?",
+      "inicio_segundos": 14.507958333333333,
+      "fim_fala_segundos": 18.223166666666668,
+      "fim_cauda_segundos": 18.223166666666668,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_13_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "E quem decide quais pessoas merecem receber um milagre?",
+      "inicio_segundos": 18.383166666666668,
+      "fim_fala_segundos": 21.912604166666668,
+      "fim_cauda_segundos": 21.912604166666668,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "escritorio",
+      "inicio": 0,
+      "fim": 23.662604166666668
+    },
+    {
+      "tipo": "efeito",
+      "asset": "noticias",
+      "inicio": 8.586,
+      "fim": 13.586
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Public admiration becomes demands and doubt, quiet unsettled piano and low string texture, mounting pressure without aggressive beats.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.06,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 12.9
+    },
+    ".mp3": {
+      "integrated_lufs": -18.06,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 12.9
+    }
+  },
+  "ganho_comum_master_db": 10.420000000000002,
+  "sha256": {
+    "SeImagine_Cena_13_Final.wav": "67f6f18a59cbe477627645f8f68008a8f9b78aa1980fb81dfbf0f150e331e3f8",
+    "SeImagine_Cena_13_Final.mp3": "4e064c8c439335207e31f4c9dcdec2ca3843dca744d9701b7209e71433c57a94"
+  }
+}

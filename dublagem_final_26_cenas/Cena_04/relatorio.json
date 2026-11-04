@@ -1,0 +1,87 @@
+{
+  "cena": 4,
+  "titulo": "Os primeiros milagres",
+  "status": "complete",
+  "duracao_segundos": 19.302958333333333,
+  "dialogos": [
+    {
+      "id": "cena_04_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Nos dias seguintes, você descobre que suas mãos são capazes de fazer muito mais do que imaginava.",
+      "inicio_segundos": 1.32,
+      "fim_fala_segundos": 7.542958333333333,
+      "fim_cauda_segundos": 7.542958333333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_04_fala_002",
+      "personagem": "Protagonista",
+      "texto_exato": "Confia em mim. Tenta se levantar.",
+      "inicio_segundos": 7.942958333333333,
+      "fim_fala_segundos": 10.342958333333334,
+      "fim_cauda_segundos": 10.342958333333334,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_04_fala_003",
+      "personagem": "Mãe",
+      "texto_exato": "Eu nunca vou esquecer o que você fez por mim!",
+      "inicio_segundos": 13.942958333333333,
+      "fim_fala_segundos": 16.902958333333334,
+      "fim_cauda_segundos": 16.902958333333334,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "praca",
+      "inicio": 0,
+      "fim": 19.302958333333336
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 10.442958333333333,
+      "fim": 14.442958333333333
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos",
+      "inicio": 11.842958333333334,
+      "fim": 16.842958333333335
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Compassionate healing, a mother stands and embraces her son, tender strings and quiet piano, restrained human gratitude.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.05,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 13.4
+    },
+    ".mp3": {
+      "integrated_lufs": -18.06,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 13.4
+    }
+  },
+  "ganho_comum_master_db": 11.850000000000001,
+  "sha256": {
+    "SeImagine_Cena_04_Final.wav": "06ce5bcfe6fda3dccce09636d21b464fc22b87bd009323acd07136f1d5ab9249",
+    "SeImagine_Cena_04_Final.mp3": "4f3eeb7b0924f40cc4349ea567bc076b3f8d317e746882b9fefed486b388b810"
+  }
+}

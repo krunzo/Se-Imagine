@@ -1,0 +1,125 @@
+{
+  "cena": 7,
+  "titulo": "A proposta",
+  "status": "complete",
+  "duracao_segundos": 40.393770833333335,
+  "dialogos": [
+    {
+      "id": "cena_07_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Entre as pessoas interessadas em seus poderes, está um empresário dono de uma grande rede de distribuição de alimentos.",
+      "inicio_segundos": 1.12,
+      "fim_fala_segundos": 8.689708333333334,
+      "fim_cauda_segundos": 8.689708333333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_002",
+      "personagem": "Empresário",
+      "texto_exato": "Imagine quantas pessoas poderíamos alimentar! Você multiplica a comida, e eu cuido da distribuição.",
+      "inicio_segundos": 8.989708333333333,
+      "fim_fala_segundos": 15.789708333333333,
+      "fim_cauda_segundos": 15.789708333333333,
+      "voice_id": "I2ByPkgw1fQDNOd5TK9K",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "No começo, parece uma boa ideia.",
+      "inicio_segundos": 16.189708333333332,
+      "fim_fala_segundos": 18.697479166666668,
+      "fim_cauda_segundos": 18.697479166666668,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "Mas você descobre que ele pretende controlar quem receberá os alimentos e cobrar preços abusivos por eles.",
+      "inicio_segundos": 18.857479166666668,
+      "fim_fala_segundos": 25.544833333333333,
+      "fim_cauda_segundos": 25.544833333333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_005",
+      "personagem": "Protagonista",
+      "texto_exato": "Essas pessoas precisam de comida, não de alguém lucrando com a fome delas.",
+      "inicio_segundos": 26.844833333333334,
+      "fim_fala_segundos": 31.564833333333333,
+      "fim_cauda_segundos": 31.564833333333333,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_006",
+      "personagem": "Narrador",
+      "texto_exato": "Você recusa a proposta.",
+      "inicio_segundos": 33.664833333333334,
+      "fim_fala_segundos": 35.383125,
+      "fim_cauda_segundos": 35.383125,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_07_fala_007",
+      "personagem": "Narrador",
+      "texto_exato": "Mas ele não está acostumado a ouvir um não.",
+      "inicio_segundos": 35.543125,
+      "fim_fala_segundos": 38.143770833333335,
+      "fim_cauda_segundos": 38.143770833333335,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "escritorio",
+      "inicio": 0,
+      "fim": 40.393770833333335
+    },
+    {
+      "tipo": "efeito",
+      "asset": "porta",
+      "inicio": 32.264833333333335,
+      "fim": 35.264833333333335
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "An elegant business proposal becomes morally troubling, restrained low strings and sparse piano, subtle unease, no cartoon villain tone.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.02,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 10.4
+    },
+    ".mp3": {
+      "integrated_lufs": -18.02,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 10.4
+    }
+  },
+  "ganho_comum_master_db": 9.969999999999999,
+  "sha256": {
+    "SeImagine_Cena_07_Final.wav": "5db8edcba58a7bcdfa0fab8f64036fbc9f3b5338bd0779d141566b296a47625b",
+    "SeImagine_Cena_07_Final.mp3": "4b643bd85870c6d38a89eca1d3678b79550bff570c7e3d4bd8fd046a13785637"
+  }
+}

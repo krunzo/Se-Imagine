@@ -1,0 +1,130 @@
+{
+  "cena": 20,
+  "titulo": "As leis da existência",
+  "status": "complete",
+  "duracao_segundos": 62.79997916666667,
+  "dialogos": [
+    {
+      "id": "cena_20_fala_001",
+      "personagem": "Deus",
+      "texto_exato": "Desde o princípio, duas forças sustentam a existência: a criação e a destruição.",
+      "inicio_segundos": 1.62,
+      "fim_fala_segundos": 7.94,
+      "fim_cauda_segundos": 9.98025,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_002",
+      "personagem": "Deus",
+      "texto_exato": "Uma faz nascer. A outra transforma em algo novo. Nenhuma é boa ou má por natureza. Ambas são necessárias.",
+      "inicio_segundos": 8.17,
+      "fim_fala_segundos": 17.05,
+      "fim_cauda_segundos": 19.09025,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_003",
+      "personagem": "Deus",
+      "texto_exato": "Mas há uma diferença entre transformar o que chegou ao fim... e destruir aquilo que ainda deveria florescer.",
+      "inicio_segundos": 18.95,
+      "fim_fala_segundos": 26.15,
+      "fim_cauda_segundos": 28.189979166666667,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_004",
+      "personagem": "Deus",
+      "texto_exato": "Cada escolha carrega uma intenção. E quanto mais profunda ela é, maior a marca que deixa no equilíbrio.",
+      "inicio_segundos": 27.55,
+      "fim_fala_segundos": 34.59,
+      "fim_cauda_segundos": 36.629979166666665,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_005",
+      "personagem": "Deus",
+      "texto_exato": "Durante incontáveis gerações, a humanidade alimentou a destruição onde deveria preservar.",
+      "inicio_segundos": 34.82,
+      "fim_fala_segundos": 40.98,
+      "fim_cauda_segundos": 43.019979166666666,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_006",
+      "personagem": "Deus",
+      "texto_exato": "Agora, a existência já não consegue sustentar o peso dessas escolhas.",
+      "inicio_segundos": 42.38,
+      "fim_fala_segundos": 47.02,
+      "fim_cauda_segundos": 49.059979166666665,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    },
+    {
+      "id": "cena_20_fala_007",
+      "personagem": "Protagonista",
+      "texto_exato": "Então... você está destruindo o mundo?",
+      "inicio_segundos": 48.52,
+      "fim_fala_segundos": 51.8,
+      "fim_cauda_segundos": 51.8,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_20_fala_008",
+      "personagem": "Deus",
+      "texto_exato": "As leis da existência não castigam. Apenas respondem àquilo que as move.",
+      "inicio_segundos": 52.9,
+      "fim_fala_segundos": 58.26,
+      "fim_cauda_segundos": 60.29997916666667,
+      "voice_id": "hwnuNyWkl9DjdTFykrN6",
+      "pitch_fonte": -1,
+      "reverb_preservado": true
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 62.79997916666667
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Quiet existential questioning beneath a serene divine explanation, sparse low strings and soft abstract acoustic harmonics, highly restrained, give long stretches to the speaking voices, no grand religious fanfare.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -2.91,
+      "loudness_range_lu": 6.7
+    },
+    ".mp3": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -2.92,
+      "loudness_range_lu": 6.7
+    }
+  },
+  "ganho_comum_master_db": 7.5,
+  "sha256": {
+    "SeImagine_Cena_20_Final.wav": "b9ebc3c80b57a40b0080089068829eb69373e05fbd3575549bf77a1c7258891d",
+    "SeImagine_Cena_20_Final.mp3": "9d6f61851309d4a42e2a79831381bf919aaea1729dacb6799ac93077c4611555"
+  }
+}

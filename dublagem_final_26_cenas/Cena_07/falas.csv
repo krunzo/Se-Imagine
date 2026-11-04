@@ -1,0 +1,8 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_07_fala_001,Narrador,1.12,8.689708333333334,8.689708333333334,"Entre as pessoas interessadas em seus poderes, está um empresário dono de uma grande rede de distribuição de alimentos."
+cena_07_fala_002,Empresário,8.989708333333333,15.789708333333333,15.789708333333333,"Imagine quantas pessoas poderíamos alimentar! Você multiplica a comida, e eu cuido da distribuição."
+cena_07_fala_003,Narrador,16.189708333333332,18.697479166666668,18.697479166666668,"No começo, parece uma boa ideia."
+cena_07_fala_004,Narrador,18.857479166666668,25.544833333333333,25.544833333333333,Mas você descobre que ele pretende controlar quem receberá os alimentos e cobrar preços abusivos por eles.
+cena_07_fala_005,Protagonista,26.844833333333334,31.564833333333333,31.564833333333333,"Essas pessoas precisam de comida, não de alguém lucrando com a fome delas."
+cena_07_fala_006,Narrador,33.664833333333334,35.383125,35.383125,Você recusa a proposta.
+cena_07_fala_007,Narrador,35.543125,38.143770833333335,38.143770833333335,Mas ele não está acostumado a ouvir um não.

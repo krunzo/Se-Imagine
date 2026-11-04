@@ -1,0 +1,5 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_02_fala_001,Narrador,1.3,4.7365625,4.7365625,"Quando abre os olhos, percebe que alguma coisa está errada."
+cena_02_fala_002,Narrador,5.6,7.504041666666666,7.504041666666666,A chuva... parou no ar.
+cena_02_fala_003,Narrador,11.7,14.857916666666666,14.857916666666666,"E, diante dos seus olhos, o ferimento desaparece."
+cena_02_fala_004,Narrador,19.0,21.832854166666667,21.832854166666667,Você não faz ideia do que acabou de acontecer.

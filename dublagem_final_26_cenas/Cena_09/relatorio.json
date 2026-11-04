@@ -1,0 +1,132 @@
+{
+  "cena": 9,
+  "titulo": "O fogo desaparece",
+  "status": "complete",
+  "duracao_segundos": 26.928520833333334,
+  "dialogos": [
+    {
+      "id": "cena_09_fala_001",
+      "personagem": "Mãe",
+      "texto_exato": "Você conseguiu! Agora vem comigo!",
+      "inicio_segundos": 3.12,
+      "fim_fala_segundos": 6.24,
+      "fim_cauda_segundos": 6.24,
+      "voice_id": "wXwzHFLHnXex5h3JPBXA",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_09_fala_002",
+      "personagem": "Bombeiro",
+      "texto_exato": "Ela não está respirando direito!",
+      "inicio_segundos": 6.64,
+      "fim_fala_segundos": 8.72,
+      "fim_cauda_segundos": 8.72,
+      "voice_id": "Wy9tl2Gz4dEyE3udiPju",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_09_fala_003",
+      "personagem": "Protagonista",
+      "texto_exato": "Elas ainda estão morrendo. Eu não posso deixá-las!",
+      "inicio_segundos": 9.12,
+      "fim_fala_segundos": 12.72,
+      "fim_cauda_segundos": 12.72,
+      "voice_id": "CstacWqMhJQlnfLPxRG4",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_09_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "O incêndio acabou.",
+      "inicio_segundos": 13.62,
+      "fim_fala_segundos": 15.059645833333333,
+      "fim_cauda_segundos": 15.059645833333333,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_09_fala_005",
+      "personagem": "Narrador",
+      "texto_exato": "Mas aquelas crianças ainda estavam à beira da morte.",
+      "inicio_segundos": 15.219645833333333,
+      "fim_fala_segundos": 18.3775625,
+      "fim_cauda_segundos": 18.3775625,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_09_fala_006",
+      "personagem": "Narrador",
+      "texto_exato": "E, a cada vida salva, você sente suas forças diminuírem.",
+      "inicio_segundos": 20.7775625,
+      "fim_fala_segundos": 24.678520833333334,
+      "fim_cauda_segundos": 24.678520833333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "emergencia",
+      "inicio": 0,
+      "fim": 26.928520833333334
+    },
+    {
+      "tipo": "efeito",
+      "asset": "incendio",
+      "inicio": 0,
+      "fim": 2.6
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 1.12,
+      "fim": 5.12
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 12.82,
+      "fim": 16.82
+    },
+    {
+      "tipo": "efeito",
+      "asset": "cura",
+      "inicio": 19.3775625,
+      "fim": 23.3775625
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "Fire recedes and children are healed, fragile relief mixed with exhaustion, restrained tense strings opening into compassionate sparse piano.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.08,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 10.8
+    },
+    ".mp3": {
+      "integrated_lufs": -18.08,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 10.8
+    }
+  },
+  "ganho_comum_master_db": 11.129999999999999,
+  "sha256": {
+    "SeImagine_Cena_09_Final.wav": "2c183192830769e1f3fc288487ea74a256b2449feb20bdc06034d4a321c02cf0",
+    "SeImagine_Cena_09_Final.mp3": "886a585224866bd6e691a963d1a32e4f6a02cc6d19806639908d76fb086f03fe"
+  }
+}

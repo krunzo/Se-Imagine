@@ -1,0 +1,98 @@
+{
+  "cena": 6,
+  "titulo": "Caminhando sobre as águas",
+  "status": "complete",
+  "duracao_segundos": 25.298229166666665,
+  "dialogos": [
+    {
+      "id": "cena_06_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Mas o mundo ainda não fazia ideia do que você era capaz.",
+      "inicio_segundos": 1.32,
+      "fim_fala_segundos": 4.710125,
+      "fim_cauda_segundos": 4.710125,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_06_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "Naquele dia, diante de dezenas de testemunhas, você caminha sobre as águas para salvar uma criança.",
+      "inicio_segundos": 9.110125,
+      "fim_fala_segundos": 15.472395833333334,
+      "fim_cauda_segundos": 15.472395833333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_06_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "O vídeo se espalha pelo planeta.",
+      "inicio_segundos": 17.072395833333335,
+      "fim_fala_segundos": 19.440833333333334,
+      "fim_cauda_segundos": 19.440833333333334,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    },
+    {
+      "id": "cena_06_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "Em poucas horas, milhões de pessoas estão falando sobre você.",
+      "inicio_segundos": 19.600833333333334,
+      "fim_fala_segundos": 23.548229166666665,
+      "fim_cauda_segundos": 23.548229166666665,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "lago",
+      "inicio": 0,
+      "fim": 16.472395833333334
+    },
+    {
+      "tipo": "efeito",
+      "asset": "passos_agua",
+      "inicio": 5.0101249999999995,
+      "fim": 10.010124999999999
+    },
+    {
+      "tipo": "efeito",
+      "asset": "noticias",
+      "inicio": 17.072395833333335,
+      "fim": 22.072395833333335
+    }
+  ],
+  "silencios": [],
+  "direcao_musical": "A child rescued by walking on water, a restrained orchestral rise and gentle sense of wonder, curiosity as the news spreads.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -19.26,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 9.8
+    },
+    ".mp3": {
+      "integrated_lufs": -19.26,
+      "true_peak_dbtp": -1.72,
+      "loudness_range_lu": 9.8
+    }
+  },
+  "ganho_comum_master_db": 9.870000000000001,
+  "sha256": {
+    "SeImagine_Cena_06_Final.wav": "cbb749713d48271f8830c5697c8e7d7f75200bc5bcf5448d3eb9910e2e4b31e7",
+    "SeImagine_Cena_06_Final.mp3": "b9cd77e7609adcc530a1bc79de6e80d23ccfc17e4a8c8fcb982bea2f22000621"
+  }
+}

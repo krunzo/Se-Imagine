@@ -1,0 +1,7 @@
+id,personagem,inicio,fim_fala,fim_cauda,texto_exato
+cena_01_fala_001,Narrador,1.1,3.8399583333333336,3.8399583333333336,A tempestade transformou as ruas em rios.
+cena_01_fala_002,Narrador,4.289958333333334,9.909187500000002,9.909187500000002,"Enquanto todos procuram um lugar seguro, você escuta algo em meio ao barulho da chuva."
+cena_01_fala_003,Narrador,10.709187500000002,12.52035416666667,12.52035416666667,Um cachorro está se afogando.
+cena_01_fala_004,Pedestre,12.92035416666667,15.16035416666667,15.16035416666667,Não entra aí! Você vai morrer!
+cena_01_fala_005,Narrador,15.76035416666667,19.10404166666667,19.10404166666667,Mas você não consegue simplesmente virar as costas.
+cena_01_fala_006,Narrador,22.50404166666667,27.05516666666667,27.05516666666667,"Depois de lutar contra a correnteza, você finalmente consegue salvá-lo."

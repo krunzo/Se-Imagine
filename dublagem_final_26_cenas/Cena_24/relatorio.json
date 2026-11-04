@@ -1,0 +1,65 @@
+{
+  "cena": 24,
+  "titulo": "O último milagre",
+  "status": "complete",
+  "duracao_segundos": 18.3708125,
+  "dialogos": [
+    {
+      "id": "cena_24_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "E, naquele instante, o mundo recebeu uma nova chance.",
+      "inicio_segundos": 8.12,
+      "fim_fala_segundos": 11.3708125,
+      "fim_cauda_segundos": 11.3708125,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch_fonte": 0,
+      "reverb_preservado": false
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ambiente",
+      "asset": "celestial",
+      "inicio": 0,
+      "fim": 16.0708125
+    },
+    {
+      "tipo": "efeito",
+      "asset": "energia",
+      "inicio": 1,
+      "fim": 9.0
+    }
+  ],
+  "silencios": [
+    [
+      16.0708125,
+      18.3708125
+    ]
+  ],
+  "direcao_musical": "A life is willingly surrendered and the world is restored, gentle expanding warm strings, profound sadness and compassion, small luminous harmonic release, fade into silence for the death in the physical world, no heroic victory.",
+  "modelos_novos": {
+    "musica": "music_v2_5",
+    "efeitos": "eleven_text_to_sound_v2"
+  },
+  "dublagem_regenerada": false,
+  "pitch_reaplicado": false,
+  "reverb_reaplicado": false,
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.92,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 22.8
+    },
+    ".mp3": {
+      "integrated_lufs": -18.92,
+      "true_peak_dbtp": -1.78,
+      "loudness_range_lu": 22.8
+    }
+  },
+  "ganho_comum_master_db": 13.69,
+  "sha256": {
+    "SeImagine_Cena_24_Final.wav": "5e6eeb740dd21878d940a948f676fb30e892cd4c3d74a3824060fe2937baee3a",
+    "SeImagine_Cena_24_Final.mp3": "bd45fc152e590825491fda78f9083ee81f4bd1b1296e8db4b5d7252594cb322b"
+  },
+  "silencio_terminal_validado_ate_ultima_amostra": true
+}
