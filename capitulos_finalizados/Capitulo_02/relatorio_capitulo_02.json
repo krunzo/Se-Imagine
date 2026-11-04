@@ -1,0 +1,277 @@
+{
+  "capitulo": 2,
+  "titulo": "O impossível",
+  "status": "finalizado_para_audicao",
+  "duracao_segundos": 24.5,
+  "dialogos": [
+    {
+      "id": "cena_02_fala_001",
+      "personagem": "Narrador",
+      "texto_exato": "Quando abre os olhos, percebe que alguma coisa está errada.",
+      "inicio": 1.3,
+      "fim": 4.7365625,
+      "duracao_fala": 3.4365625,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch": 0,
+      "modelo_original": "eleven_multilingual_v2",
+      "source_sha256": "b7ff3e13b33a75a708e4133683b3a4cfc2bdbedbef7ed36dccb5c3906af34f99"
+    },
+    {
+      "id": "cena_02_fala_002",
+      "personagem": "Narrador",
+      "texto_exato": "A chuva... parou no ar.",
+      "inicio": 5.6,
+      "fim": 7.504041666666666,
+      "duracao_fala": 1.9040416666666666,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch": 0,
+      "modelo_original": "eleven_multilingual_v2",
+      "source_sha256": "3ce10ea95a3e4f1cc77b97e58a28d4785af27709eb18c1c962da09d5404f3917"
+    },
+    {
+      "id": "cena_02_fala_003",
+      "personagem": "Narrador",
+      "texto_exato": "E, diante dos seus olhos, o ferimento desaparece.",
+      "inicio": 11.7,
+      "fim": 14.857916666666666,
+      "duracao_fala": 3.1579166666666665,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch": 0,
+      "modelo_original": "eleven_multilingual_v2",
+      "source_sha256": "f97bfa5ff0ea0020e9cf1f8f9fd95ef93491a1240097dde242e9db1d6e18fb40"
+    },
+    {
+      "id": "cena_02_fala_004",
+      "personagem": "Narrador",
+      "texto_exato": "Você não faz ideia do que acabou de acontecer.",
+      "inicio": 19.0,
+      "fim": 21.832854166666667,
+      "duracao_fala": 2.8328541666666665,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "pitch": 0,
+      "modelo_original": "eleven_multilingual_v2",
+      "source_sha256": "11fcc3e8fd9247ffb658d9fc93660ec43f61ffd852003ad5bd0c635f18354dfa"
+    }
+  ],
+  "dialogos_regenerados": 0,
+  "pitch_ou_velocidade_alterados": false,
+  "fontes_do_filme_preservadas": 125,
+  "originais_preservados": 125,
+  "roteiro_preservado": true,
+  "manifesto_original_sha256": "57cee7b8bd974add072f139b897b4392f9f1c600a20c3ef50ca4caf2b9089ec7",
+  "capitulo_01_preservado": true,
+  "capitulo_03_iniciado": false,
+  "musica_modelo": "music_v2_5",
+  "efeitos_modelo": "eleven_text_to_sound_v2",
+  "assets_novos": {
+    "trilha": {
+      "asset": "trilha",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 24000,
+        "force_instrumental": true,
+        "prompt": "Original 24-second intimate cinematic instrumental underscore beneath spoken narration, following a compassionate young man waking after lightning to discover rain frozen in midair, then gently healing a wounded dog with his hand. First 8 seconds nearly silent mysterious suspended glassy textures and soft bowed strings, isolated sparse felt piano notes. Seconds 8 to 15 a delicate warm harmonic opening, compassionate and wondrous, not heroic. Seconds 15 to 21 the rain resumes and wonder becomes curious uncertainty; gentle warm piano and restrained strings. Last 3 seconds natural quiet unresolved fade. Organic cinematic timbres, spacious and emotionally restrained, a subtle thematic continuation of an intimate nocturnal flood-rescue score. No voices, no choir, no lyrics, no speech, no drums, no big hits, no sound effects, no horror, no bombast, no imitation of existing music. Keep a clear space for a deep Portuguese narrator."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:16:30.151111+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "384566",
+        "content-type": "audio/mpeg",
+        "song-id": "0r9o3JXjZmmNEEmNTnRj"
+      },
+      "file": "trilha.mp3",
+      "sha256": "e9e950928bd744a6fb9450290869ff20241a267d85d3007afcaf9718fe77b5f8",
+      "duration_seconds": 24.032625,
+      "bytes": 384566,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "tempo_suspenso": {
+      "asset": "tempo_suspenso",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 8.0,
+        "loop": true,
+        "prompt_influence": 0.65,
+        "text": "Extremely quiet spacious cinematic sound atmosphere for time standing still in an empty wet city street: soft airy suspended pressure, tiny distant glasslike droplets hovering motionless, faint low natural air resonance. Minimal and mysterious, near silence, subtle stereo space. No falling rain, no rushing water, no melody, music, voices, ringing tinnitus, harsh tones, alarm or impacts."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:16:38.455265+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "80",
+        "content-length": "129192",
+        "content-type": "audio/mpeg"
+      },
+      "file": "tempo_suspenso.mp3",
+      "sha256": "353a554e87199f9451431dfdd7b76072f0941b8226f55ecdf3a61c376b2d942c",
+      "duration_seconds": 8.045714,
+      "bytes": 129192,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "cura_suave": {
+      "asset": "cura_suave",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 4.0,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "A delicate cinematic supernatural healing sound: a soft warm breath of air rising into a tiny smooth luminous shimmer, gently blossoming then dissolving over four seconds. Compassionate, intimate, organic and restrained, suggesting a hand quietly healing a dogs paw. No loud magic blast, bells, metallic ringing, sparkling game effects, laser, music, melody, voices or choir."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:16:45.226575+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "40",
+        "content-length": "65244",
+        "content-type": "audio/mpeg"
+      },
+      "file": "cura_suave.mp3",
+      "sha256": "547418e5f89a3e287549c1150bfa54174a9d9e9e6775753759b2e765db9e10d7",
+      "duration_seconds": 4.04898,
+      "bytes": 65244,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "chuva_retoma": {
+      "asset": "chuva_retoma",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 8.0,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Realistic cinematic stereo rain transition, eight seconds: suspended raindrops suddenly fall together onto flooded pavement at the start, a brief natural splash and heavy shower, then rain steadily softens to gentle scattered drips as the storm passes and clouds clear. Natural wet street ambience, distant runoff. No thunder strike, explosion, music, voices, animals or dramatic whoosh."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:16:50.018403+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "80",
+        "content-length": "129192",
+        "content-type": "audio/mpeg"
+      },
+      "file": "chuva_retoma.mp3",
+      "sha256": "8a69cf1a2b4a88d625c524054c9ea79e180d6e331f630bba990d7876c708fe74",
+      "duration_seconds": 8.045714,
+      "bytes": 129192,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 4214,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    }
+  },
+  "foley_reutilizado": {
+    "arquivo": "/workspace/dublagem_jesus/finalizacao_sonora_v2/capitulo_01/assets_elevenlabs_originais/cachorro_resgatado.mp3",
+    "sha256": "e3145f1ed2ae2f2481a211f7b9cbcda3256bcc0877df6986cfc380e42ac67249",
+    "creditos_adicionais": 0
+  },
+  "eventos_segundos": {
+    "chuva_suspensa": 0,
+    "cachorro_aproxima": 7.8,
+    "cura": 9.5,
+    "chuva_volta": 15.6
+  },
+  "metricas": {
+    ".wav": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -1.8,
+      "loudness_range_lu": 8.2
+    },
+    ".mp3": {
+      "integrated_lufs": -18.0,
+      "true_peak_dbtp": -1.79,
+      "loudness_range_lu": 8.2
+    }
+  },
+  "ganho_comum_master_db": 10.84,
+  "master_target_lufs": -18,
+  "sincronizacao": "Montagem sonora para audição; tempos das ações editoriais, sincronização com imagem depende do corte de animação.",
+  "arquivos_sha256": {
+    "SeImagine_Capitulo_02_Cinematografico.wav": "853769c6de3c4615f45ebe1c2c508748fa942756cd726024619657876f85bbdd",
+    "SeImagine_Capitulo_02_Cinematografico.mp3": "8fde0f4cca9b1b65aca2048df6438ebd5166a8e6a605ef12f178b3507fb97218"
+  },
+  "creditos_reais": {
+    "total": 500,
+    "musica": 300.0,
+    "efeitos": 200.0,
+    "novas_vozes": 0,
+    "usados_antes": 4214,
+    "usados_depois": 4714,
+    "saldo_restante": 35286,
+    "fonte": "Diferença de saldo reconciliada com uso por produto e cabeçalhos de efeitos da API ElevenLabs",
+    "compra_de_creditos_ou_plano": false,
+    "debitos_atualizados_com_atraso": true
+  }
+}
