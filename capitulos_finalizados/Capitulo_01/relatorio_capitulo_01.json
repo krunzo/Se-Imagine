@@ -1,0 +1,406 @@
+{
+  "chapter": 1,
+  "title": "A correnteza",
+  "status": "finalizado_para_audicao",
+  "created_utc": "2026-11-04T20:11:07.397548+00:00",
+  "duration_seconds": 36.95516666666666,
+  "sample_rate": 48000,
+  "channels": 2,
+  "wav_bit_depth": 24,
+  "mp3_bitrate_kbps": 320,
+  "dialogue_segments": [
+    {
+      "id": "cena_01_fala_001",
+      "character": "Narrador",
+      "exact_text": "A tempestade transformou as ruas em rios.",
+      "start_seconds": 1.1,
+      "end_seconds": 3.8399583333333336,
+      "duration_seconds": 2.7399583333333335,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_001_narrador.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_001.wav",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "cena_01_fala_002",
+      "character": "Narrador",
+      "exact_text": "Enquanto todos procuram um lugar seguro, você escuta algo em meio ao barulho da chuva.",
+      "start_seconds": 4.289958333333334,
+      "end_seconds": 9.909187500000002,
+      "duration_seconds": 5.619229166666667,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_002_narrador.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_002.wav",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "cena_01_fala_003",
+      "character": "Narrador",
+      "exact_text": "Um cachorro está se afogando.",
+      "start_seconds": 10.709187500000002,
+      "end_seconds": 12.52035416666667,
+      "duration_seconds": 1.8111666666666666,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_003_narrador.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_003.wav",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "cena_01_fala_004",
+      "character": "Pedestre",
+      "exact_text": "Não entra aí! Você vai morrer!",
+      "start_seconds": 12.92035416666667,
+      "end_seconds": 15.16035416666667,
+      "duration_seconds": 2.24,
+      "voice_id": "iJ7HFMLySFb7M2U4KGy5",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_004_pedestre.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_004.wav",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "cena_01_fala_005",
+      "character": "Narrador",
+      "exact_text": "Mas você não consegue simplesmente virar as costas.",
+      "start_seconds": 15.76035416666667,
+      "end_seconds": 19.10404166666667,
+      "duration_seconds": 3.3436875,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_005_narrador.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_005.wav",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "cena_01_fala_006",
+      "character": "Narrador",
+      "exact_text": "Depois de lutar contra a correnteza, você finalmente consegue salvá-lo.",
+      "start_seconds": 22.50404166666667,
+      "end_seconds": 27.05516666666667,
+      "duration_seconds": 4.551125,
+      "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+      "source_file": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_006_narrador.mp3",
+      "stem_file": "/workspace/dublagem_jesus/premix_dialogos_v1/individuais_48k24/cena_01/cena_01_fala_006.wav",
+      "pitch_semitones": 0
+    }
+  ],
+  "source_integrity": [
+    {
+      "id": "cena_01_fala_001",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_001_narrador.mp3",
+      "sha256": "60e7d581d301ec62b40dde07ee6c89462c15ddb327c66e8c1ede575d663dfdde",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_001_narrador.mp3",
+      "raw_sha256": "60e7d581d301ec62b40dde07ee6c89462c15ddb327c66e8c1ede575d663dfdde"
+    },
+    {
+      "id": "cena_01_fala_002",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_002_narrador.mp3",
+      "sha256": "2558d7860a4c32f0d5a2fab575cd903b42a7381e7e10dbe2285838bf8bbea02d",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_002_narrador.mp3",
+      "raw_sha256": "2558d7860a4c32f0d5a2fab575cd903b42a7381e7e10dbe2285838bf8bbea02d"
+    },
+    {
+      "id": "cena_01_fala_003",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_003_narrador.mp3",
+      "sha256": "11cf373d0594b079d4d08bf7e380ebfff396278f6ec075d3285b7a845329ebaa",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_003_narrador.mp3",
+      "raw_sha256": "11cf373d0594b079d4d08bf7e380ebfff396278f6ec075d3285b7a845329ebaa"
+    },
+    {
+      "id": "cena_01_fala_004",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_004_pedestre.mp3",
+      "sha256": "1ec6afb7a259a3d432acbf619243b4b305c6f9a533a3fc9b9df5f719ac93ff36",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_004_pedestre.mp3",
+      "raw_sha256": "1ec6afb7a259a3d432acbf619243b4b305c6f9a533a3fc9b9df5f719ac93ff36"
+    },
+    {
+      "id": "cena_01_fala_005",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_005_narrador.mp3",
+      "sha256": "7070215d7eb318a682be4fded403c3e765e3a96a34036b128f4b42eaa0d19b52",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_005_narrador.mp3",
+      "raw_sha256": "7070215d7eb318a682be4fded403c3e765e3a96a34036b128f4b42eaa0d19b52"
+    },
+    {
+      "id": "cena_01_fala_006",
+      "final": "/workspace/dublagem_jesus/audio/cena_01/cena_01_fala_006_narrador.mp3",
+      "sha256": "1f1200eff9de68294be4d9719b2081efbf7b4c1e35dfad9f3042fb6dee68d8b0",
+      "raw": "/workspace/dublagem_jesus/audio/cena_01/raw/cena_01_fala_006_narrador.mp3",
+      "raw_sha256": "1f1200eff9de68294be4d9719b2081efbf7b4c1e35dfad9f3042fb6dee68d8b0"
+    }
+  ],
+  "dialogue_regenerated": false,
+  "dialogue_pitch_or_speed_changed": false,
+  "original_manifest_unchanged_sha256": "57cee7b8bd974add072f139b897b4392f9f1c600a20c3ef50ca4caf2b9089ec7",
+  "music_provider": "ElevenLabs",
+  "music_model": "music_v2_5",
+  "sfx_provider": "ElevenLabs",
+  "sfx_model": "eleven_text_to_sound_v2",
+  "assets": {
+    "trilha": {
+      "asset": "trilha",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/music?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "music_v2_5",
+        "music_length_ms": 30000,
+        "force_instrumental": true,
+        "prompt": "Original cinematic instrumental underscore for a compassionate young man rescuing a drowning dog in a violent nighttime urban flood. 30 seconds. Intimate film score, organic softly bowed low strings, restrained felt piano, dark spacious orchestral texture, subtle irregular pulse, warm human emotion within real danger. First 10 seconds: mysterious nocturnal tension, very sparse piano and low strings, quiet and spacious. Seconds 10 to 20: suspense and a small restrained build during a dangerous water rescue, never bombastic. Seconds 20 to 27: fragile compassionate relief, a small hopeful suspended chord. Last 3 seconds: music retreats and fades away completely, an unresolved quiet ending before a lightning strike. Designed beneath Portuguese spoken narration: restrained dynamics, no dominant lead melody, no choir, no vocals, no lyrics, no speech, no sound effects, no thunder, no electronic dance beat, no heroic fanfare, no horror stingers. Natural cinematic acoustic timbres, emotionally subtle, no imitation of any existing composition or artist."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:07:28.535522+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3399,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "content-length": "480697",
+        "content-type": "audio/mpeg",
+        "song-id": "ENa1O4UQLvva8ybI0yhQ"
+      },
+      "file": "trilha.mp3",
+      "sha256": "33ada1be9d9b74904b7407f3476576479e199521ea1e6cb2c0712b6567305e7e",
+      "duration_seconds": 30.040813,
+      "bytes": 480697,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3399,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "tempestade_correnteza": {
+      "asset": "tempestade_correnteza",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 30.0,
+        "loop": true,
+        "prompt_influence": 0.65,
+        "text": "Realistic stereo ambience of a flooded city street at night: heavy rain on pavement and roofs, powerful fast muddy water rushing nearby, muted deep thunder far away, faint distant emergency sirens behind the rain. Steady immersive storm and water bed. No close thunder cracks, sudden foreground events, dog, talking, voices or music. Wide natural cinematic background."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:09:08.478278+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "300",
+        "content-length": "481114",
+        "content-type": "audio/mpeg"
+      },
+      "file": "tempestade_correnteza.mp3",
+      "sha256": "9bcd711147cb84ffcaee56f134efb45eabb3d324dcffc11b8d50ad6e54acbe40",
+      "duration_seconds": 30.040816,
+      "bytes": 481114,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "resgate_agua": {
+      "asset": "resgate_agua",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 7.0,
+        "loop": false,
+        "prompt_influence": 0.7,
+        "text": "Realistic seven-second water rescue: a person jumps into a fast flooded river, strong close splash at the start; briefly underwater, muffled turbulent bubbles; breaks the surface with urgent irregular splashing; finally wet clothing scrapes against a concrete curb, water drips as rescue reaches safety. No voices, human vocalizations, music, magic or electronic effects. Physical close believable water textures."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:09:17.626778+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "70",
+        "content-length": "112892",
+        "content-type": "audio/mpeg"
+      },
+      "file": "resgate_agua.mp3",
+      "sha256": "48bcad0ecee7996afd9cc07e9f4cba6916e9432ce132fb874bdbc2b6f06fbcee",
+      "duration_seconds": 7.026939,
+      "bytes": 112892,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "cachorro_resgatado": {
+      "asset": "cachorro_resgatado",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 3.0,
+        "loop": false,
+        "prompt_influence": 0.65,
+        "text": "Close natural recording of one wet small dog just rescued from water: a tiny exhausted soft whimper, relieved gentle panting and two subtle licking sounds. Tender and quiet, not aggressive, no loud barking, no suffering yelps, no humans, no speech, no music, no background storm. Dry isolated realistic animal Foley for a film."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:09:23.594516+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "30",
+        "content-length": "48944",
+        "content-type": "audio/mpeg"
+      },
+      "file": "cachorro_resgatado.mp3",
+      "sha256": "e3145f1ed2ae2f2481a211f7b9cbcda3256bcc0877df6986cfc380e42ac67249",
+      "duration_seconds": 3.030204,
+      "bytes": 48944,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    },
+    "raio_trovao": {
+      "asset": "raio_trovao",
+      "provider": "ElevenLabs",
+      "endpoint": "/v1/sound-generation?output_format=mp3_44100_128",
+      "request_body": {
+        "model_id": "eleven_text_to_sound_v2",
+        "duration_seconds": 4.0,
+        "loop": false,
+        "prompt_influence": 0.75,
+        "text": "One close natural lightning strike: sudden sharp dry electrical thunder crack immediately at the beginning, followed by powerful deep organic rolling thunder fading into distance over four seconds. Realistic cinematic storm impact, broad full spectrum, no clipping or distortion. Single dramatic event. No second strike, gunshot, explosion, metal, sci-fi, musical hit, voices or music."
+      },
+      "status": "complete",
+      "started_utc": "2026-11-04T20:09:28.665119+00:00",
+      "balance_before": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "max_requests": 1,
+      "approved_dialogue_regenerated": false,
+      "response_headers": {
+        "character-cost": "40",
+        "content-length": "65244",
+        "content-type": "audio/mpeg"
+      },
+      "file": "raio_trovao.mp3",
+      "sha256": "44462936982ce2592f16991e2e2b9a5a35815f1501cca8e7b12a74e15f20f539",
+      "duration_seconds": 4.04898,
+      "bytes": 65244,
+      "channels": 2,
+      "sample_rate": "44100",
+      "balance_after": {
+        "tier": "starter",
+        "status": "active",
+        "character_count": 3774,
+        "character_limit": 40000,
+        "can_extend_character_limit": false
+      },
+      "account_credits_delta": 0
+    }
+  },
+  "cue_points": {
+    "rescue_jump": 19.40404166666667,
+    "dog_safe": 27.85516666666667,
+    "lightning": 31.45516666666667,
+    "absolute_silence_start": 35.45516666666667,
+    "absolute_silence_duration": 1.5
+  },
+  "master_common_gain_db": 9.379999999999999,
+  "master_limiter_max_allowed_transient_reduction_db": 2,
+  "pre_master_metrics": {
+    "integrated_lufs": -27.38,
+    "true_peak_dbtp": -9.48,
+    "loudness_range_lu": 9.9
+  },
+  "wav_metrics": {
+    "integrated_lufs": -18.04,
+    "true_peak_dbtp": -1.8,
+    "loudness_range_lu": 9.7
+  },
+  "mp3_metrics": {
+    "integrated_lufs": -18.04,
+    "true_peak_dbtp": -1.77,
+    "loudness_range_lu": 9.7
+  },
+  "stem_levels": "Stems pre-master; sum then apply the common master chain.",
+  "timing_note": "Montagem sonora concluída para audição. Tempos de ação editoriais; eventual sincronização com imagem dependerá do corte de animação.",
+  "chapter_02_started": false,
+  "credits_delta_observed_per_asset": 0,
+  "sfx_tariff_documented_estimate_credits": 1760,
+  "no_extra_credits_purchased": true,
+  "credits_actual": {
+    "total_new_credits": 815,
+    "music_credits": 375,
+    "sfx_credits": 440,
+    "new_tts_credits": 0,
+    "balance_used_before": 3399,
+    "balance_used_after": 4214,
+    "balance_remaining": 35786,
+    "source": "API subscription balance delta reconciled with product usage and SFX response headers",
+    "account_update_delayed": true,
+    "new_plan_or_credit_purchase": false
+  },
+  "integrity_complete_film": {
+    "approved_final_files_checked": 125,
+    "raw_originals_checked": 125,
+    "approved_sources_modified": 0,
+    "original_script_unchanged": true
+  },
+  "sfx_validation_rejection": {
+    "requests_rejected_before_generation": 1,
+    "reason": "description exceeded undocumented 450-character API limit",
+    "credits_charged": 0,
+    "audit_file": "assets_elevenlabs_originais/tempestade_correnteza.rejeicao_validacao_sem_geracao.json",
+    "note": "Description corrected before the single successful generation of this effect. No generated asset was regenerated."
+  },
+  "deliverable_sha256": {
+    "SeImagine_Capitulo_01_Cinematografico.mp3": "df64db249460e2bd80ca66bacdfba960058015a17ffbfc75eac5f2154e36efd2",
+    "SeImagine_Capitulo_01_Cinematografico.wav": "bc3efd4a8f9c351b9debfd10ef4494bcebd23ab95c49b93da30df666b20e89a3"
+  }
+}

@@ -1,0 +1,7 @@
+id,personagem,inicio_segundos,fim_segundos,texto
+cena_01_fala_001,Narrador,1.100000,3.839958,A tempestade transformou as ruas em rios.
+cena_01_fala_002,Narrador,4.289958,9.909188,"Enquanto todos procuram um lugar seguro, você escuta algo em meio ao barulho da chuva."
+cena_01_fala_003,Narrador,10.709188,12.520354,Um cachorro está se afogando.
+cena_01_fala_004,Pedestre,12.920354,15.160354,Não entra aí! Você vai morrer!
+cena_01_fala_005,Narrador,15.760354,19.104042,Mas você não consegue simplesmente virar as costas.
+cena_01_fala_006,Narrador,22.504042,27.055167,"Depois de lutar contra a correnteza, você finalmente consegue salvá-lo."
